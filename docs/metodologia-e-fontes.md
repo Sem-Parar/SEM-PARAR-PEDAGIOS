@@ -1,8 +1,8 @@
 # Metodologia e fontes: como a base de praças de pedágio é feita
 
-**Os dados deste repositório saem de fonte oficial, sempre: o cadastro de praças de pedágio da ANTT para as rodovias federais, conferido contra a Lista de Concessões da própria ANTT.** Cada linha traz a fonte e a data da conferência, e toda decisão de contagem está escrita aqui antes de virar número.
+**Os dados deste repositório saem de fonte oficial, sempre: o cadastro de praças de pedágio da ANTT para as rodovias federais e o cadastro de ativos da ARTESP para as estaduais de São Paulo, cada um conferido contra a situação dos contratos publicada pela própria agência.** Cada linha traz a fonte e a data da conferência, e toda decisão de contagem está escrita aqui antes de virar número.
 
-Esta página existe para que qualquer pessoa possa auditar o que está publicado: de onde veio cada número, o que conta como uma praça, como o cadastro oficial vira este inventário e o que fazemos quando duas fontes discordam.
+Esta página existe para que qualquer pessoa possa auditar o que está publicado: de onde veio cada número, o que conta como uma praça, como cada cadastro oficial vira este inventário e o que fazemos quando duas fontes discordam.
 
 > Publicado em 9 de novembro de 2026.
 > Parte do repositório [Praças de pedágio do Brasil, pelo Sem Parar](../README.md). O significado de cada coluna das bases está no [dicionário de dados](../dados/README.md).
@@ -13,7 +13,8 @@ Esta página existe para que qualquer pessoa possa auditar o que está publicado
 
 - [De onde vem cada dado](#de-onde-vem-cada-dado)
 - [O que conta como uma praça?](#o-que-conta-como-uma-praça)
-- [Do cadastro da ANTT a este inventário](#do-cadastro-da-antt-a-este-inventário)
+- [Do cadastro da ANTT às praças federais](#do-cadastro-da-antt-às-praças-federais)
+- [Do cadastro da ARTESP às praças de São Paulo](#do-cadastro-da-artesp-às-praças-de-são-paulo)
 - [Divergências declaradas](#divergências-declaradas)
 - [Por que aqui não tem tarifa](#por-que-aqui-não-tem-tarifa)
 - [Como os arquivos CSV são formatados](#como-os-arquivos-csv-são-formatados)
@@ -30,10 +31,11 @@ As fontes têm hierarquia. Quando duas se cruzam, prevalece a de cima, e a de ba
 | Ordem | Fonte | O que ela responde melhor |
 |:---:|---|---|
 | 1 | [Dados das Praças de Pedágio, ANTT](https://dados.antt.gov.br/dataset/praca-de-pedagio) | Localização de cada praça federal: rodovia, km, município, sentido e coordenadas. Versão de 3 de novembro de 2026 |
-| 2 | [Lista de Concessões, ANTT](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes) | Situação de cada contrato (vigente, encerrado, caducidade) e a tabela oficial de tarifas de cada concessão |
-| 3 | Agências estaduais e prefeituras | As praças estaduais e municipais, a partir das próximas versões |
-| 4 | Canal oficial da concessionária | Sentido cobrado, tabela tarifária e mudanças de operação |
-| 5 | Imprensa e comunicados | Datas de anúncio e contexto. **Nunca sozinha muda um número da base** |
+| 1 | [Cadastro de Ativos, ARTESP](https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos) | Localização de cada praça estadual de São Paulo: rodovia, km, sentido, município e coordenadas, no arquivo de recursos operacionais. Versão de 30 de maio de 2025 |
+| 2 | [Lista de Concessões, ANTT](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes) e [Concessionárias, ARTESP](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/concessionarias) | Situação de cada contrato (vigente, encerrado, caducidade) e a página oficial de cada concessão |
+| 2 | [Volume de Tráfego, ARTESP](https://dadosabertos.artesp.sp.gov.br/dataset/volume-de-trafego) | Passagens por praça, dia e sentido em 2026. Confirma que a praça do cadastro segue cobrando com cabine |
+| 3 | Canal oficial da concessionária | Sentido cobrado, tabela tarifária, município quando o cadastro não traz e mudanças de operação |
+| 4 | Imprensa e comunicados | Datas de anúncio e contexto. **Nunca sozinha muda um número da base** |
 
 **Anúncio é promessa, não fato.** Quando uma concessionária anuncia que uma praça vai virar Free Flow numa data, a praça continua na base até a troca acontecer, com o anúncio registrado na observação da linha.
 
@@ -50,18 +52,20 @@ Todo número que conta coisas depende de uma definição, e a nossa está escrit
 | Praça com cabine ou pista automática, cobrando | **Sim**, uma linha por local |
 | A mesma praça cobrando nos dois sentidos | Uma linha só, com os sentidos na coluna `sentidos_cobrados` |
 | Registros da mesma praça, no mesmo município, em km próximos (cabines de cada sentido ou defasadas) | Uma linha só, com os km de cada registro na observação |
-| Praças de sentidos opostos em municípios diferentes | Duas linhas, como Guararema Norte (Santa Isabel) e Guararema Sul (Guararema), na Via Dutra |
+| Praças de sentidos opostos em municípios diferentes | Duas linhas, como Guararema Norte (Santa Isabel) e Guararema Sul (Guararema), na Via Dutra, e Morro do Alto Norte (Tatuí) e Sul (Itapetininga), na SP-127 |
+| Praças do Rodoanel nos ramos interno e externo do mesmo acesso | Uma linha por acesso, e duas quando os ramos ficam em municípios diferentes |
 | Praça auxiliar em acesso, cobrando | **Sim**, com `tipo` = `bloqueio` |
 | Pórtico de Free Flow | **Não.** Fica no [repositório irmão](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW) |
+| Pórtico do sistema Ponto a Ponto, que cobra por trecho de quem aderiu ao programa com tag | **Não.** Não é praça com cabine |
 | Praça com data de inativação no cadastro | Não |
 | Praça de contrato encerrado ou com caducidade declarada | Não, mesmo que o cadastro ainda a marque como ativa |
 | Praça com conversão em Free Flow anunciada | Sim, até a troca acontecer |
 
 ---
 
-## Do cadastro da ANTT a este inventário
+## Do cadastro da ANTT às praças federais
 
-O cadastro de praças da ANTT, na versão de 3 de novembro de 2026, tem **289 registros**, todos marcados como ativos. Este é o caminho até as **163 praças** deste repositório:
+O cadastro de praças da ANTT, na versão de 3 de novembro de 2026, tem **289 registros**, todos marcados como ativos. Este é o caminho até as **163 praças federais** deste repositório:
 
 | Etapa | Registros | Sobram |
 |---|:---:|:---:|
@@ -76,11 +80,29 @@ As quatro praças com data de inativação são: Concebra P4 ITUMBIARA, em 22/05
 
 ---
 
+## Do cadastro da ARTESP às praças de São Paulo
+
+A ARTESP não publica uma lista de praças de pedágio. Elas estão no arquivo de recursos operacionais do cadastro de ativos, como componente "Pedágio", ao lado de radares, balanças e câmeras. Na versão de 30 de maio de 2025, são **239 registros**. Este é o caminho até as **156 praças estaduais** deste repositório:
+
+| Etapa | Registros | Sobram |
+|---|:---:|:---:|
+| Registros de pedágio no cadastro de ativos | | 239 |
+| Contratos encerrados, com as mesmas praças já registradas sob a concessionária nova (Tebe 3, ViaOeste 9) | 12 | 227 |
+| Pórticos ponto a ponto e de Free Flow registrados como pedágio | 15 | 212 |
+| Praças que já viraram pórtico depois da data do cadastro | 9 | 203 |
+| Registros por sentido, ramo ou pista reunidos numa praça | 47 | **156** |
+
+**Conferência com a operação de 2026.** O cadastro é de 30 de maio de 2025, e por isso cada uma das 156 praças foi conferida contra as passagens por praça publicadas pela ARTESP para 2026, de 1º de janeiro a 30 de setembro. Todas têm passagens registradas com cabine manual ou pista automática no período. As praças que só aparecem como pórtico nas passagens de 2026 saíram da contagem.
+
+**Mudanças depois de 30 de setembro de 2026.** Pirangi e Monte Alto, da Ecovias Noroeste Paulista, viraram pórtico em 1º de novembro de 2026 e saíram. As nove praças da Renovias seguem na base sob a Rota Mogiana, que assumiu o trecho na mesma data.
+
+---
+
 ## Divergências declaradas
 
 Divergência registrada é sinal de qualidade, não de erro escondido. Estas são as que esta versão encontrou:
 
-| Onde | O que o cadastro diz | O que adotamos |
+| Onde | O que a fonte diz | O que adotamos |
 |---|---|---|
 | Concer, BR-040 | Três praças ativas | Contrato encerrado na Lista de Concessões; as mesmas praças estão ativas sob a Elovias, e entram só por ela |
 | Ecovias Sul, BR-116 e BR-392 | Cinco praças ativas | Contrato encerrado na Lista de Concessões; fora da contagem |
@@ -90,12 +112,18 @@ Divergência registrada é sinal de qualidade, não de erro escondido. Estas sã
 | Ecovias Cerrado (Paranaiguara) e Ecovias Minas Goiás (Delta) | Situação ativa com data de inativação preenchida | A data de inativação prevalece; fora da contagem |
 | Simão Pereira, Elovias, BR-040 | Praça ativa | Praça ativa, com a troca por Free Flow autorizada pela ANTT em 04/11/2026 e anunciada para 16/11/2026 registrada na observação |
 | `tipo_de_pista` | "Principal" em todos os registros, inclusive nas praças auxiliares de Jacarezinho | `tipo` = `bloqueio` nas duas praças auxiliares, que o próprio cadastro localiza no acesso para a SP-278 e na saída para a BR-153 |
+| Tebe e ViaOeste, cadastro da ARTESP | Praças ativas sob contratos já encerrados | Fora da contagem; as mesmas praças entram sob a Ecovias Noroeste Paulista, a Motiva Sorocabana e a Ecovias Raposo Castello |
+| Ecovias Raposo Castello, cadastro da ARTESP | Município em branco nas três praças | Município da tabela oficial de tarifas da concessionária (Osasco, Barueri e Itapevi), com a origem na observação |
+| Florínea, Entrevias, SP-333 | Município em branco | `n/d`, sem inferência pelo nome da praça |
+| Paulínia B, Rota das Bandeiras, e Anchieta, SPMar | Sentido "Central" no cadastro | Um sentido só, como registram as passagens de 2026 e a tabela de tarifas da ARTESP |
+| Nome da praça e município | A praça leva um nome e o cadastro registra outro município, como Rio Claro (Via Colinas) em Piracicaba e Mococa (Rota Mogiana) em Casa Branca | Prevalece o município do cadastro, e o nome da praça fica como a concessionária o registra |
+| Colina, Ecovias Noroeste Paulista, SP-326 | Praça ativa | Praça ativa, com o Free Flow anunciado para 01/12/2026 registrado na observação |
 
 ---
 
 ## Por que aqui não tem tarifa
 
-Tarifa de pedágio muda a cada reajuste de contrato, e cada concessão tem a sua data. Uma base aberta com valor congelado engana mais do que ajuda. Por isso este repositório guarda, para cada praça e cada concessão, o **link da tabela oficial de tarifas** publicada pela ANTT, que está sempre atualizada na origem. Para calcular uma viagem inteira, o [Trace Sua Rota](https://www.semparar.com.br/trace-sua-rota?utm_source=github&utm_medium=metodologia&utm_campaign=sem-parar-pedagios), do Sem Parar, soma as praças do caminho.
+Tarifa de pedágio muda a cada reajuste de contrato, e cada concessão tem a sua data. Uma base aberta com valor congelado engana mais do que ajuda. Por isso este repositório guarda, para cada praça e cada concessão, o **link da tabela oficial de tarifas**, publicada pela ANTT nas federais e pela ARTESP nas paulistas, que está sempre atualizada na origem. Para calcular uma viagem inteira, o [Trace Sua Rota](https://www.semparar.com.br/trace-sua-rota?utm_source=github&utm_medium=metodologia&utm_campaign=sem-parar-pedagios), do Sem Parar, soma as praças do caminho.
 
 ---
 
@@ -114,7 +142,7 @@ Tarifa de pedágio muda a cada reajuste de contrato, e cada concessão tem a sua
 | Evento | Prazo |
 |---|---|
 | Praça nova, desativada ou convertida em Free Flow | até 72 horas após o fato confirmado em fonte oficial |
-| Mudança de concessionária ou de situação de contrato | até 72 horas após a publicação da ANTT |
+| Mudança de concessionária ou de situação de contrato | até 72 horas após a publicação da ANTT ou da ARTESP |
 | Revisão completa das bases | mensal |
 
 Tudo que muda fica registrado no [CHANGELOG](../CHANGELOG.md).
@@ -125,8 +153,8 @@ Tudo que muda fica registrado no [CHANGELOG](../CHANGELOG.md).
 
 - Não guarda tarifa, mensalidade ou percentual de desconto.
 - Não repete os pórticos de Free Flow, que vivem no [repositório irmão](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW).
-- Não cobre ainda as rodovias estaduais e municipais. Elas entram nas próximas versões.
-- Não substitui os canais oficiais da ANTT e das concessionárias.
+- Não cobre ainda as rodovias estaduais fora de São Paulo nem as municipais. Elas entram nas próximas versões.
+- Não substitui os canais oficiais da ANTT, da ARTESP e das concessionárias.
 
 ---
 
@@ -134,7 +162,7 @@ Tudo que muda fica registrado no [CHANGELOG](../CHANGELOG.md).
 
 O conteúdo e as bases estão sob [CC BY 4.0](../LICENSE): o reuso é livre, inclusive comercial, desde que citada a fonte.
 
-> Sem Parar. *Praças de pedágio do Brasil: base aberta das praças com cabine nas rodovias concedidas.* Versão 0.1.0. Consultado em [data]. Disponível em: https://github.com/Sem-Parar/SEM-PARAR-PEDAGIOS
+> Sem Parar. *Praças de pedágio do Brasil: base aberta das praças com cabine nas rodovias concedidas.* Versão 0.2.0. Consultado em [data]. Disponível em: https://github.com/Sem-Parar/SEM-PARAR-PEDAGIOS
 
 ---
 
