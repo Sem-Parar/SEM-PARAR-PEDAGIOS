@@ -50,7 +50,64 @@ BR-386,n/d,RS,ViaSul,federal,4,Victor Graeff; Fontoura Xavier; Paverama; Montene
 BR-414,n/d,GO,Ecovias Araguaia,federal,1,Corumbá de Goiás,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
 BR-476,n/d,PR,Via Araucária,federal,1,Lapa,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
 BR-493,Arco Metropolitano do Rio,RJ,Ecovias Rio Minas,federal,2,Guapimirim; Itaguaí,previsto,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+SP-021,Rodoanel Mario Covas,SP,RodoAnel Oeste,estadual,8,São Paulo; Barueri; Carapicuíba; Osasco,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-021,Rodoanel Mario Covas,SP,SPMar,estadual,7,São Paulo; São Bernardo do Campo; Ribeirão Pires; Itaquaquecetuba,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-055,n/d,SP,Ecovias dos Imigrantes,estadual,2,Santos; São Vicente,adiado,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-063,n/d,SP,Rota das Bandeiras,estadual,1,Itatiba,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-065,Dom Pedro I,SP,Rota das Bandeiras,estadual,3,Igaratá; Atibaia; Itatiba,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-070,Ayrton Senna e Carvalho Pinto,SP,Ecovias Leste Paulista,estadual,4,Itaquaquecetuba; Guararema; São José dos Campos; Caçapava,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-075,n/d,SP,Motiva Sorocabana,estadual,1,Itu,sim,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-075,n/d,SP,Via Colinas,estadual,2,Indaiatuba,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
 PR-092,n/d,PR,EPR Litoral Pioneiro,federal,1,Siqueira Campos,previsto,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+SP-099,Tamoios,SP,Tamoios,estadual,2,Jambeiro; Paraibuna,sim,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-101,n/d,SP,Rodovias do Tietê,estadual,2,Monte Mor; Rafard,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-127,n/d,SP,SPVias,estadual,3,Tatuí; Itapetininga; Capão Bonito,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-127,n/d,SP,Via Colinas,estadual,2,Piracicaba; Rio das Pedras,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-147,n/d,SP,Arteris Intervias,estadual,3,Mogi Mirim; Limeira; Iracemápolis,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-150,Anchieta,SP,Ecovias dos Imigrantes,estadual,1,São Bernardo do Campo,adiado,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
 PR-151,n/d,PR,EPR Litoral Pioneiro,federal,3,Sengés; Jaguariaíva; Carambeí,previsto,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+SP-160,Imigrantes,SP,Ecovias dos Imigrantes,estadual,4,Diadema; São Bernardo do Campo,adiado,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-191,n/d,SP,Arteris Intervias,estadual,2,Araras; Rio Claro,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-215,n/d,SP,Arteris Intervias,estadual,2,Santa Cruz das Palmeiras; Descalvado,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-225,n/d,SP,CART,estadual,2,Piratininga; Santa Cruz do Rio Pardo,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-225,n/d,SP,Eixo SP,estadual,3,Itirapina; Brotas; Jaú,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-255,n/d,SP,Arteris ViaPaulista,estadual,6,Guatapará; Boa Esperança do Sul; Jaú; Botucatu; Itaí; Coronel Macedo,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-255,n/d,SP,SPVias,estadual,1,Avaré,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-258,n/d,SP,SPVias,estadual,2,Taquarivaí; Itararé,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-270,Raposo Tavares,SP,CART,estadual,6,Palmital; Assis; Rancharia; Regente Feijó; Presidente Bernardes; Caiuá,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-270,Raposo Tavares,SP,SPVias,estadual,1,Sarapuí,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-280,Castello Branco,SP,Ecovias Raposo Castello,estadual,3,Osasco; Barueri; Itapevi,previsto,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-280,Castello Branco,SP,Motiva Sorocabana,estadual,1,Itu,sim,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-280,Castello Branco,SP,SPVias,estadual,3,Quadra; Itatinga; Iaras,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-280,Castello Branco,SP,Via Colinas,estadual,2,Boituva,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-284,n/d,SP,Eixo SP,estadual,2,Paraguaçu Paulista; Rancharia,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-293,n/d,SP,Eixo SP,estadual,1,Cabrália Paulista,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-294,n/d,SP,Eixo SP,estadual,7,Bauru; Garça; Oriente; Parapuã; Inúbia Paulista; Pacaembu; Santa Mercedes,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-300,Marechal Rondon,SP,Rodovias do Tietê,estadual,5,Conchas; Anhembi; Botucatu; Areiópolis; Lençóis Paulista,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-300,Marechal Rondon,SP,Via Colinas,estadual,2,Itupeva; Porto Feliz,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-300,Marechal Rondon,SP,ViaRondon,estadual,8,Avaí; Pirajuí; Promissão; Glicério; Rubiácea; Lavínia; Guaraçaí; Castilho,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-304,n/d,SP,Eixo SP,estadual,3,São Pedro; Torrinha,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-308,n/d,SP,Eixo SP,estadual,1,Piracicaba,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-308,n/d,SP,Rodovias do Tietê,estadual,2,Elias Fausto; Rio das Pedras,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-310,Washington Luís,SP,Ecovias Noroeste Paulista,estadual,3,Araraquara; Fernando Prestes; Catiguá,sim,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-310,Washington Luís,SP,Eixo SP,estadual,2,Rio Claro; São Carlos,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
 PR-317,n/d,PR,Via Campo,federal,1,Floresta,adiado,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+SP-318,n/d,SP,Arteris ViaPaulista,estadual,1,São Carlos,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-322,n/d,SP,Entrevias,estadual,2,Sertãozinho; Pitangueiras,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
 PR-323,n/d,PR,Motiva Paraná,federal,1,Sertaneja,sim,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+SP-326,n/d,SP,Ecovias Noroeste Paulista,estadual,1,Colina,sim,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-327,n/d,SP,CART,estadual,1,Santa Cruz do Rio Pardo,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-330,Anhanguera,SP,Arteris Intervias,estadual,2,Leme; Pirassununga,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-330,Anhanguera,SP,Arteris ViaPaulista,estadual,2,Santa Rita do Passa Quatro; São Simão,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-330,Anhanguera,SP,AutoBAn,estadual,4,São Paulo; Valinhos; Nova Odessa; Cordeirópolis,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-330,Anhanguera,SP,Entrevias,estadual,2,Sales Oliveira; Ituverava,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-332,n/d,SP,Rota das Bandeiras,estadual,3,Paulínia; Cosmópolis; Engenheiro Coelho,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-333,n/d,SP,Entrevias,estadual,4,Pongaí; Marília; n/d,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-334,n/d,SP,Arteris ViaPaulista,estadual,2,Batatais; Restinga,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-340,n/d,SP,Rota Mogiana,estadual,4,Campinas; Mogi Guaçu; Casa Branca,previsto,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-342,n/d,SP,Rota Mogiana,estadual,2,Espírito Santo do Pinhal; Águas da Prata,previsto,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-344,n/d,SP,Rota Mogiana,estadual,2,São João da Boa Vista,previsto,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-348,Bandeirantes,SP,AutoBAn,estadual,5,Caieiras; Franco da Rocha; Itupeva; Sumaré; Limeira,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-350,n/d,SP,Rota Mogiana,estadual,1,Itobi,previsto,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-360,n/d,SP,Rota das Bandeiras,estadual,1,Itatiba,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
+SP-425,n/d,SP,Eixo SP,estadual,2,Martinópolis; Indiana,não,https://dadosabertos.artesp.sp.gov.br/dataset/cadastro-de-ativos,2026-11-09
