@@ -1,0 +1,56 @@
+rodovia,nome_popular,uf,concessao,esfera,n_pracas,municipios_com_praca,free_flow_na_concessao,fonte,atualizado_em
+BR-040,Rio-Juiz de Fora,RJ,Elovias,federal,2,Petrópolis; Duque de Caxias,anunciado,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-040,n/d,MG,EPR Via Mineira,federal,3,Itabirito; Conselheiro Lafaiete; Barbacena,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-040,Rio-Juiz de Fora,MG,Elovias,federal,1,Simão Pereira,anunciado,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-040,n/d,MG,Via Cristais,federal,7,Paracatu; Lagoa Grande; João Pinheiro; São Gonçalo do Abaeté; Felixlândia; Curvelo; Capim Branco,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-050,n/d,MG,Ecovias Minas Goiás,federal,3,Araguari; Uberaba,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-050,n/d,GO,Ecovias Minas Goiás,federal,2,Ipameri; Campo Alegre de Goiás,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-060,n/d,GO,Concebra,federal,2,Alexânia; Goianápolis,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-080,n/d,GO,Ecovias Araguaia,federal,1,Santa Rita do Novo Destino,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-101,n/d,RJ,Autopista Fluminense,federal,5,Campos dos Goytacazes; Casimiro de Abreu; Rio Bonito; São Gonçalo,previsto,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-101,Ponte Rio-Niterói,RJ,Ecovias Ponte,federal,1,Niterói,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-101,n/d,ES,Ecovias Capixaba,federal,7,Pedro Canário; São Mateus; Aracruz; Serra; Guarapari; Itapemirim; Mimoso do Sul,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-101,n/d,SC,Autopista Litoral Sul,federal,4,Garuva; Araquari; Porto Belo; Palhoça,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-101,n/d,SC,ViaCosteira,federal,4,Laguna; Tubarão; Maracajá; São João do Sul,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-101,n/d,RS,ViaSul,federal,1,Três Cachoeiras,previsto,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-116,Régis Bittencourt,SP,Autopista Régis Bittencourt,federal,5,São Lourenço da Serra; Miracatu; Juquiá; Cajati; Barra do Turvo,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-116,Via Dutra,SP,RioSP,federal,6,Pindamonhangaba; Jacareí; Guararema; Santa Isabel; Arujá,sim,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-116,Rio-Teresópolis,RJ,Ecovias Rio Minas,federal,1,Magé,previsto,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-116,Via Dutra,RJ,RioSP,federal,3,Seropédica; Itatiaia,sim,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-116,Rio-Bahia,MG,Ecovias Rio Minas,federal,7,Engenheiro Caldas; Inhapim; Santa Bárbara do Leste; São João do Manhuaçu; São Francisco do Glória; Laranjal; Leopoldina,previsto,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-116,n/d,PR,Autopista Planalto Sul,federal,2,Fazenda Rio Grande; Rio Negro,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-116,Régis Bittencourt,PR,Autopista Régis Bittencourt,federal,1,Campina Grande do Sul,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-116,n/d,SC,Autopista Planalto Sul,federal,3,Monte Castelo; Santa Cecília; Correia Pinto,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-153,Transbrasiliana,SP,Transbrasiliana,federal,4,Onda Verde; José Bonifácio; Lins; Vera Cruz,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-153,n/d,MG,Way-153,federal,2,Prata; Fronteira,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-153,n/d,GO,Ecovias Araguaia,federal,5,Porangatu; Estrela do Norte; Campinorte; Hidrolina; Jaraguá,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-153,n/d,GO,Way-153,federal,2,Professor Jamil; Itumbiara,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-153,n/d,TO,Ecovias Araguaia,federal,2,Aliança do Tocantins; Alvorada,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-163,n/d,MS,Motiva Pantanal,federal,9,Mundo Novo; Itaquiraí; Caarapó; Rio Brilhante; Campo Grande; Jaraguari; São Gabriel do Oeste; Rio Verde de Mato Grosso; Sonora,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-163,n/d,MT,Nova Rota do Oeste,federal,4,Itiquira; Nova Mutum; Lucas do Rio Verde; Sorriso,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-163,n/d,MT,Via Brasil BR-163,federal,2,Cláudia; Terra Nova do Norte,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-163,n/d,PA,Via Brasil BR-163,federal,1,Trairão,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-262,n/d,MG,Way-153,federal,1,Conceição das Alagoas,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-262,n/d,MG,Way-262,federal,4,Florestal; Luz; Campos Altos; Perdizes,sim,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-277,n/d,PR,EPR Iguaçu,federal,6,Prudentópolis; Candói; Laranjeiras do Sul; Cascavel; Céu Azul; São Miguel do Iguaçu,sim,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-277,n/d,PR,EPR Litoral Pioneiro,federal,1,São José dos Pinhais,previsto,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-277,n/d,PR,Via Araucária,federal,3,Balsa Nova; Porto Amazonas; Irati,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-290,Freeway,RS,ViaSul,federal,2,Santo Antônio da Patrulha; Gravataí,previsto,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-364,n/d,MT,Nova Rota do Oeste,federal,5,Rondonópolis; Campo Verde; Santo Antônio de Leverger; Jangada; Nobres,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-364,n/d,GO,Ecovias Cerrado,federal,2,Cachoeira Alta; Jataí,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-365,n/d,MG,Ecovias Cerrado,federal,4,Uberlândia; Monte Alegre de Minas; Ituiutaba; Santa Vitória,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-369,n/d,PR,EPR Litoral Pioneiro,federal,3,Jacarezinho,previsto,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-369,n/d,PR,Via Campo,federal,2,Campo Mourão; Corbélia,adiado,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-373,n/d,PR,Via Araucária,federal,1,Imbituva,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-376,n/d,PR,Autopista Litoral Sul,federal,1,São José dos Pinhais,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-376,Rodovia do Café,PR,Motiva Paraná,federal,4,Ortigueira; Tibagi; Palmeira,sim,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-381,Fernão Dias,SP,Motiva Minas SP,federal,2,Vargem; Mairiporã,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-381,Fernão Dias,MG,Motiva Minas SP,federal,6,Itatiaiuçu; Carmópolis de Minas; Santo Antônio do Amparo; Carmo da Cachoeira; São Gonçalo do Sapucaí; Cambuí,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-386,n/d,RS,ViaSul,federal,4,Victor Graeff; Fontoura Xavier; Paverama; Montenegro,previsto,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-414,n/d,GO,Ecovias Araguaia,federal,1,Corumbá de Goiás,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-476,n/d,PR,Via Araucária,federal,1,Lapa,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-493,Arco Metropolitano do Rio,RJ,Ecovias Rio Minas,federal,2,Guapimirim; Itaguaí,previsto,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+PR-092,n/d,PR,EPR Litoral Pioneiro,federal,1,Siqueira Campos,previsto,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+PR-151,n/d,PR,EPR Litoral Pioneiro,federal,3,Sengés; Jaguariaíva; Carambeí,previsto,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+PR-317,n/d,PR,Via Campo,federal,1,Floresta,adiado,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+PR-323,n/d,PR,Motiva Paraná,federal,1,Sertaneja,sim,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
