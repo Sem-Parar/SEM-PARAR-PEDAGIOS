@@ -70,7 +70,7 @@ O cadastro de praças da ANTT ainda marca como ativas as praças de três contra
 
 - **BR-153 em Goiás:** as praças de Itumbiara e de Professor Jamil, antes da Concebra, passaram à **Way-153**. A Concebra segue com as duas praças da BR-060, entre Alexânia e Goianápolis.
 - **Viúva Graça, em Seropédica (RJ):** o cadastro registra as duas estruturas tanto sob a **RioSP** quanto sob a **Ecovias Rio Minas**, com as mesmas coordenadas. Contamos cada uma uma vez, sob a RioSP, que segue operando a praça por autorização da ANTT até nova licitação.
-- **Simão Pereira (MG), na BR-040:** a ANTT autorizou a Elovias a trocar a praça por um pórtico de Free Flow no km 831, a partir de 16 de novembro de 2026. A praça segue na lista até a troca acontecer.
+- **Simão Pereira (MG), na BR-040:** a ANTT autorizou em 4 de novembro de 2026 a Elovias a trocar a praça por um pórtico de Free Flow no km 831, e a concessionária anunciou o início para 16 de novembro. A praça segue na lista até a troca acontecer.
 
 ---
 

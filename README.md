@@ -155,7 +155,7 @@ Na maioria, sim: **156 das 163 praças cobram nos dois sentidos**. Cobram em um 
 <details>
 <summary><strong>As praças de pedágio vão acabar com o Free Flow?</strong></summary>
 
-Não de uma vez. A conversão é feita concessão por concessão, e as concessões novas já nascem com pórtico: 5 concessões federais cobram só por Free Flow. A próxima conversão federal anunciada é a da praça de Simão Pereira (MG), na BR-040, que a ANTT autorizou a dar lugar a um pórtico em 16 de novembro de 2026. Até lá, a praça segue na lista.
+Não de uma vez. A conversão é feita concessão por concessão, e as concessões novas já nascem com pórtico: 5 concessões federais cobram só por Free Flow. A próxima conversão federal anunciada é a da praça de Simão Pereira (MG), na BR-040, que a ANTT autorizou em 4 de novembro de 2026 a dar lugar a um pórtico, com início anunciado pela Elovias para 16 de novembro. Até lá, a praça segue na lista.
 </details>
 
 <details>

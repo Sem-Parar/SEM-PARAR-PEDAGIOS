@@ -88,7 +88,7 @@ Divergência registrada é sinal de qualidade, não de erro escondido. Estas sã
 | Viúva Graça e Viuvinha, Seropédica | As mesmas duas estruturas sob a RioSP (km 207,1 e 208,6) e sob a Ecovias Rio Minas (km 211,674 e 213,103) | Uma vez cada, sob a RioSP, com a divergência na observação da linha |
 | Concebra e Way-153, BR-153 | Praças nos mesmos locais, a da Concebra com data de inativação de 22/05/2026 e município diferente | Só a Way-153 |
 | Ecovias Cerrado (Paranaiguara) e Ecovias Minas Goiás (Delta) | Situação ativa com data de inativação preenchida | A data de inativação prevalece; fora da contagem |
-| Simão Pereira, Elovias, BR-040 | Praça ativa | Praça ativa, com a troca por Free Flow autorizada para 16/11/2026 registrada na observação |
+| Simão Pereira, Elovias, BR-040 | Praça ativa | Praça ativa, com a troca por Free Flow autorizada pela ANTT em 04/11/2026 e anunciada para 16/11/2026 registrada na observação |
 | `tipo_de_pista` | "Principal" em todos os registros, inclusive nas praças auxiliares de Jacarezinho | `tipo` = `bloqueio` nas duas praças auxiliares, que o próprio cadastro localiza no acesso para a SP-278 e na saída para a BR-153 |
 
 ---
