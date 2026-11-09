@@ -1,11 +1,22 @@
 # Concessões rodoviárias com pedágio no Brasil: quem administra cada rodovia
 
-**29 concessões federais cobram pedágio em praça com cabine no Brasil, e outras 5 cobram só por pórtico de Free Flow.** A tabela mostra quem administra cada rodovia, em que estados, quantas praças opera, se já cobra também por pórtico e onde está a tabela oficial de tarifas.
+**49 concessões cobram pedágio em praça com cabine nesta base: 29 federais e 20 estaduais de São Paulo. Outras 7 cobram só por pórtico de Free Flow.** As tabelas mostram quem administra cada rodovia, em que estados, quantas praças opera, se já cobra também por pórtico e onde está a tabela oficial de tarifas.
 
-> Publicado em 9 de novembro de 2026. Gerado a partir de [`dados/concessoes-rodoviarias.csv`](dados/concessoes-rodoviarias.csv), com a Lista de Concessões e o cadastro de praças da ANTT conferidos nesta data.
-> Parte do repositório [Praças de pedágio do Brasil, pelo Sem Parar](README.md). Esta versão cobre as concessões federais; as estaduais e municipais entram nas próximas.
+> Publicado em 9 de novembro de 2026. Gerado a partir de [`dados/concessoes-rodoviarias.csv`](dados/concessoes-rodoviarias.csv), com a Lista de Concessões da ANTT e a relação de concessionárias da ARTESP conferidas nesta data.
+> Parte do repositório [Praças de pedágio do Brasil, pelo Sem Parar](README.md). Esta versão cobre as concessões federais e as estaduais de São Paulo; as estaduais dos demais estados e as municipais entram nas próximas.
 
-**Concessionária administra, ANTT regula.** Nas rodovias federais, a concessionária opera a rodovia e cobra a tarifa, e a Agência Nacional de Transportes Terrestres fiscaliza o contrato e aprova os reajustes. A tabela oficial de cada concessão fica na página dela na ANTT.
+**Concessionária administra, agência regula.** A concessionária opera a rodovia e cobra a tarifa. Nas rodovias federais, quem fiscaliza o contrato e aprova os reajustes é a Agência Nacional de Transportes Terrestres (ANTT); nas estaduais de São Paulo, a Agência de Transporte do Estado de São Paulo (ARTESP).
+
+---
+
+## Índice
+
+- [As 29 concessões federais com praça de pedágio](#as-29-concessões-federais-com-praça-de-pedágio)
+- [As 20 concessões estaduais de São Paulo com praça de pedágio](#as-20-concessões-estaduais-de-são-paulo-com-praça-de-pedágio)
+- [As concessões que cobram só por pórtico](#as-concessões-que-cobram-só-por-pórtico)
+- [Contratos encerrados que ainda aparecem nos cadastros](#contratos-encerrados-que-ainda-aparecem-nos-cadastros)
+- [Concessões em transição](#concessões-em-transição)
+- [Perguntas frequentes](#perguntas-frequentes)
 
 ---
 
@@ -42,7 +53,37 @@
 | **ViaSul** | BR-101, BR-290, BR-386 | RS | 7 | previsto | [tabela oficial](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/viasul/tarifas-de-pedagio) |
 | **Way-153** | BR-153, BR-262 | MG, GO | 5 | não | [tabela oficial](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/rota-sertaneja/tarifas-de-pedagio) |
 | **Way-262** | BR-262 | MG | 4 | sim, também cobra por pórtico | [tabela oficial](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/way-262/tarifas-de-pedagio) |
-| **Total** | | | **163** | | |
+| **Total federal** | | | **163** | | |
+
+---
+
+## As 20 concessões estaduais de São Paulo com praça de pedágio
+
+| Concessão | Rodovias | Praças | Free Flow | Tarifas |
+|---|---|:---:|---|:---:|
+| **Arteris Intervias** | SP-147, SP-191, SP-215, SP-330 | 9 | não | [tabela oficial](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios) |
+| **Arteris ViaPaulista** | SP-255, SP-318, SP-330, SP-334 | 11 | não | [tabela oficial](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios) |
+| **AutoBAn** | SP-330, SP-348 | 9 | não | [tabela oficial](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios) |
+| **CART** | SP-225, SP-270, SP-327 | 9 | não | [tabela oficial](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios) |
+| **Ecovias dos Imigrantes** | SP-055, SP-150, SP-160 | 7 | adiado | [tabela oficial](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios) |
+| **Ecovias Leste Paulista** | SP-070 | 4 | não | [tabela oficial](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios) |
+| **Ecovias Noroeste Paulista** | SP-310, SP-326 | 4 | sim, também cobra por pórtico | [tabela oficial](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios) |
+| **Ecovias Raposo Castello** | SP-280 | 3 | previsto | [tabela oficial](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios) |
+| **Eixo SP** | SP-225, SP-284, SP-293, SP-294, SP-304, SP-308, SP-310, SP-425 | 21 | não | [tabela oficial](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios) |
+| **Entrevias** | SP-322, SP-330, SP-333 | 8 | não | [tabela oficial](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios) |
+| **Motiva Sorocabana** | SP-075, SP-280 | 2 | sim, também cobra por pórtico | [tabela oficial](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios) |
+| **RodoAnel Oeste** | SP-021 | 8 | não | [tabela oficial](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios) |
+| **Rodovias do Tietê** | SP-101, SP-300, SP-308 | 9 | não | [tabela oficial](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios) |
+| **Rota das Bandeiras** | SP-063, SP-065, SP-332, SP-360 | 8 | não | [tabela oficial](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios) |
+| **Rota Mogiana** | SP-340, SP-342, SP-344, SP-350 | 9 | previsto | [tabela oficial](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios) |
+| **SPMar** | SP-021 | 7 | não | [tabela oficial](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios) |
+| **SPVias** | SP-127, SP-255, SP-258, SP-270, SP-280 | 10 | não | [tabela oficial](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios) |
+| **Tamoios** | SP-099 | 2 | sim, também cobra por pórtico | [tabela oficial](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios) |
+| **Via Colinas** | SP-075, SP-127, SP-280, SP-300 | 8 | não | [tabela oficial](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios) |
+| **ViaRondon** | SP-300 | 8 | não | [tabela oficial](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios) |
+| **Total estadual** | | **156** | | |
+
+A ARTESP publica as tarifas de todas as concessões paulistas numa página só, e a página de cada concessão na ARTESP, em `url_concessao` de [`dados/concessoes-rodoviarias.csv`](dados/concessoes-rodoviarias.csv), traz o contrato e o link do site da concessionária.
 
 A coluna Free Flow segue o repositório irmão: "sim" quando a concessão já tem pórtico cobrando, "previsto" ou "adiado" quando há pórtico planejado sem cobrança, e "anunciado" quando há data oficial ainda não cumprida. O detalhe está em [Concessionárias com Free Flow no Brasil](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW/blob/main/CONCESSIONARIAS-FREE-FLOW.md).
 
@@ -50,11 +91,13 @@ A coluna Free Flow segue o repositório irmão: "sim" quando a concessão já te
 
 ## As concessões que cobram só por pórtico
 
-5 concessões federais não têm nenhuma praça com cabine: Nova 364, Nova 381, Rota Verde Goiás, Way-364, EPR Paraná. Sem praça, elas aparecem só no repositório irmão, em [Concessionárias com Free Flow no Brasil](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW/blob/main/CONCESSIONARIAS-FREE-FLOW.md).
+5 concessões federais não têm nenhuma praça com cabine: Nova 364, Nova 381, Rota Verde Goiás, Way-364, EPR Paraná. Em São Paulo, são 2: Novo Litoral, Via SP Serra (Rodoanel Norte). Sem praça, elas aparecem só no repositório irmão, em [Concessionárias com Free Flow no Brasil](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW/blob/main/CONCESSIONARIAS-FREE-FLOW.md).
+
+A **Via Raposo**, que assumiu em 19 de fevereiro de 2026 o lote Paranapanema, na SP-270 entre Itapetininga e Ourinhos, não aparece com praça no cadastro de ativos nem nos volumes de passagens de 2026 da ARTESP, e por isso também fica fora desta base.
 
 ---
 
-## Contratos encerrados que ainda aparecem no cadastro de praças
+## Contratos encerrados que ainda aparecem nos cadastros
 
 O cadastro de praças da ANTT ainda marca como ativas as praças de três contratos que já não cobram pela concessão original. Nenhuma delas entra na contagem:
 
@@ -64,6 +107,13 @@ O cadastro de praças da ANTT ainda marca como ativas as praças de três contra
 | Ecovias Sul, ex-Ecosul, BR-116 e BR-392 (RS) | Contrato encerrado | As cinco praças do polo de Pelotas deixaram de cobrar com o fim do contrato |
 | Rodovia do Aço, BR-393 (RJ) | Caducidade declarada | A cobrança nas três praças foi suspensa em junho de 2025, quando o DNIT assumiu a rodovia |
 
+No cadastro de ativos da ARTESP acontece o mesmo com dois contratos paulistas:
+
+| Concessão no cadastro | O que acontece hoje |
+|---|---|
+| Tebe, 3 registros | Contrato encerrado em março de 2025, segundo a ARTESP. As três praças passaram à Ecovias Noroeste Paulista, que tem registro próprio no cadastro |
+| ViaOeste, 9 registros | Contrato encerrado. As praças da SP-075, da SP-270 e da SP-280 passaram à Motiva Sorocabana e à Ecovias Raposo Castello, que têm registro próprio no cadastro |
+
 ---
 
 ## Concessões em transição
@@ -71,6 +121,9 @@ O cadastro de praças da ANTT ainda marca como ativas as praças de três contra
 - **BR-153 em Goiás:** as praças de Itumbiara e de Professor Jamil, antes da Concebra, passaram à **Way-153**. A Concebra segue com as duas praças da BR-060, entre Alexânia e Goianápolis.
 - **Viúva Graça, em Seropédica (RJ):** o cadastro registra as duas estruturas tanto sob a **RioSP** quanto sob a **Ecovias Rio Minas**, com as mesmas coordenadas. Contamos cada uma uma vez, sob a RioSP, que segue operando a praça por autorização da ANTT até nova licitação.
 - **Simão Pereira (MG), na BR-040:** a ANTT autorizou em 4 de novembro de 2026 a Elovias a trocar a praça por um pórtico de Free Flow no km 831, e a concessionária anunciou o início para 16 de novembro. A praça segue na lista até a troca acontecer.
+- **Renovias e Rota Mogiana, em São Paulo:** em 1º de novembro de 2026, a **Rota Mogiana** assumiu os 346 km operados pela Renovias, com as nove praças da SP-340, SP-342, SP-344 e SP-350, que entram nesta base sob o nome novo. A cobrança eletrônica do Siga Fácil vai ser implantada de forma gradual.
+- **Colina (SP), na SP-326:** a Ecovias Noroeste Paulista anunciou o pórtico de Free Flow para 1º de dezembro de 2026, no lugar da praça. A praça segue na lista até a troca acontecer.
+- **Praças paulistas que já viraram pórtico** e por isso saíram da contagem: Caraguatatuba (Tamoios): contorno sul da tamoios, cobrado por pórtico; Pirangi (Ecovias Noroeste Paulista): pórtico desde 01/11/2026; Monte Alto (Ecovias Noroeste Paulista): pórtico desde 01/11/2026; Dobrada (Ecovias Noroeste Paulista): pórtico em operação; Taiúva (Ecovias Noroeste Paulista): pórtico desde 01/12/2025; São Roque (Motiva Sorocabana): pórtico desde 01/10/2025; Alumínio (Motiva Sorocabana): pórtico desde 01/10/2025; Araçoiaba Oeste (Motiva Sorocabana): pórtico desde 01/10/2025; Araçoiaba Leste (Motiva Sorocabana): pórtico desde 01/10/2025.
 
 ---
 
@@ -125,9 +178,39 @@ A **ViaSul**, concessão federal regulada pela ANTT. A Freeway (BR-290) tem 2 pr
 </details>
 
 <details>
-<summary><strong>Qual concessionária federal tem mais praças?</strong></summary>
+<summary><strong>Quem administra a Bandeirantes?</strong></summary>
 
-A **Ecovias Rio Minas**, com 10, seguida de Ecovias Araguaia, Motiva Pantanal, Nova Rota do Oeste, RioSP, com 9 cada.
+A **AutoBAn**, concessão estadual regulada pela ARTESP. A Bandeirantes (SP-348) tem 5 praças com cabine nesta base. A tabela oficial de tarifas está [na página de pedágios e tarifas da ARTESP](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios).
+</details>
+
+<details>
+<summary><strong>Quem administra a Imigrantes?</strong></summary>
+
+A **Ecovias dos Imigrantes**, concessão estadual regulada pela ARTESP. A Imigrantes (SP-160) tem 4 praças com cabine nesta base. A tabela oficial de tarifas está [na página de pedágios e tarifas da ARTESP](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios).
+</details>
+
+<details>
+<summary><strong>Quem administra a Anchieta?</strong></summary>
+
+A **Ecovias dos Imigrantes**, concessão estadual regulada pela ARTESP. A Anchieta (SP-150) tem 1 praça com cabine nesta base. A tabela oficial de tarifas está [na página de pedágios e tarifas da ARTESP](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios).
+</details>
+
+<details>
+<summary><strong>Quem administra a Dom Pedro I?</strong></summary>
+
+A **Rota das Bandeiras**, concessão estadual regulada pela ARTESP. A Dom Pedro I (SP-065) tem 3 praças com cabine nesta base. A tabela oficial de tarifas está [na página de pedágios e tarifas da ARTESP](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios).
+</details>
+
+<details>
+<summary><strong>Qual concessionária tem mais praças?</strong></summary>
+
+Somando as duas esferas, a **Eixo SP**, com 21. Entre as federais, lidera a Ecovias Rio Minas, com 10; entre as estaduais de São Paulo, a Eixo SP, com 21.
+</details>
+
+<details>
+<summary><strong>Quem regula o pedágio da Bandeirantes e da Anhanguera?</strong></summary>
+
+A **ARTESP**, porque são rodovias estaduais, concedidas pelo governo de São Paulo. A Via Dutra, a Régis Bittencourt e a Fernão Dias, que também cortam o estado, são federais e ficam com a ANTT. A esfera e o órgão regulador de cada praça estão nas colunas `esfera` e `orgao_regulador` de [`dados/pracas-de-pedagio.csv`](dados/pracas-de-pedagio.csv).
 </details>
 
 ---
