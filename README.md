@@ -36,7 +36,7 @@ Sem Parar criou a primeira Identificação Automática Veicular do Brasil, em 20
 
 A informação sobre essas praças existe, mas chega espalhada. A ANTT publica as federais num cadastro que mistura praça com cabine e ponto de Free Flow, conta um registro por sentido em parte das praças e ainda traz como ativos contratos que já terminaram. A ARTESP publica as paulistas num cadastro de ativos, no meio de radares, balanças e câmeras, com as praças de contratos encerrados ao lado das da concessionária que as assumiu. Cada agência estadual publica as suas num formato próprio, e ninguém publica a conta consolidada.
 
-**Sem Parar publica aqui essa informação reunida, datada e versionada, como dado aberto.** Qualquer pessoa pode consultar, corrigir e reutilizar, com ou sem tag, cliente ou não. Os pórticos de Free Flow ficam no repositório irmão, [Free Flow e Tag de Pedágio, pelo Sem Parar](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW).
+**Sem Parar publica aqui essa informação reunida, datada e versionada, como dado aberto.** Qualquer pessoa pode consultar, corrigir e reutilizar, com ou sem tag, cliente ou não. Os pórticos de Free Flow ficam no repositório irmão, [Free Flow e Tag de Pedágio, pelo Sem Parar](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW). O telefone de socorro de cada concessão, para quando o carro para na rodovia, está em [Guincho e socorro nas rodovias do Brasil](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
 
 ---
 

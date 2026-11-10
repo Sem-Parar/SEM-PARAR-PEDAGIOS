@@ -4,6 +4,7 @@
 
 > Publicado em 9 de novembro de 2026. Gerado a partir de [`dados/concessoes-rodoviarias.csv`](dados/concessoes-rodoviarias.csv), com a Lista de Concessões da ANTT e a relação de concessionárias da ARTESP conferidas nesta data.
 > Parte do repositório [Praças de pedágio do Brasil, pelo Sem Parar](README.md). Esta versão cobre as concessões federais e as estaduais de São Paulo; as estaduais dos demais estados e as municipais entram nas próximas.
+> O telefone de socorro de cada concessão está em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md), no repositório irmão do Sem Parar.
 
 **Concessionária administra, agência regula.** A concessionária opera a rodovia e cobra a tarifa. Nas rodovias federais, quem fiscaliza o contrato e aprova os reajustes é a Agência Nacional de Transportes Terrestres (ANTT); nas estaduais de São Paulo, a Agência de Transporte do Estado de São Paulo (ARTESP).
 
