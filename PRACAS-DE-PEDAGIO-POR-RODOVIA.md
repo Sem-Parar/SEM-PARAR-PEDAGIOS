@@ -108,6 +108,8 @@ Tabela oficial de tarifas: [Elovias](https://www.gov.br/antt/pt-br/assuntos/rodo
 
 **Free Flow nas concessões desta rodovia:** Elovias, anunciado. Os pórticos estão em [Rodovias com Free Flow no Brasil](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW/blob/main/RODOVIAS-COM-FREE-FLOW.md).
 
+**Socorro nesta rodovia:** Elovias, 0800 040 0495; Via Cristais, 0800 070 0040; EPR Via Mineira, 0800 003 1040. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
+
 ---
 
 ## BR-050
@@ -124,6 +126,8 @@ Tabela oficial de tarifas: [Elovias](https://www.gov.br/antt/pt-br/assuntos/rodo
 
 Tabela oficial de tarifas: [Ecovias Minas Goiás](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/eco050/tarifas-de-pedagio).
 
+**Socorro nesta rodovia:** Ecovias Minas Goiás, 0800 940 0700. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
+
 ---
 
 ## BR-060
@@ -137,6 +141,8 @@ Tabela oficial de tarifas: [Ecovias Minas Goiás](https://www.gov.br/antt/pt-br/
 
 Tabela oficial de tarifas: [Concebra](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/concebra/tarifas-de-pedagio).
 
+**Socorro nesta rodovia:** Concebra, 0800 060 6000. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
+
 ---
 
 ## BR-080
@@ -148,6 +154,8 @@ Tabela oficial de tarifas: [Concebra](https://www.gov.br/antt/pt-br/assuntos/rod
 | P8 - Santa Rita do Novo Destino | GO | Santa Rita do Novo Destino | 155,5 | ambos | Ecovias Araguaia |
 
 Tabela oficial de tarifas: [Ecovias Araguaia](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/ecovias-araguaia/tarifas-de-pedagio).
+
+**Socorro nesta rodovia:** Ecovias Araguaia, 0800 153 0153. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
 
 ---
 
@@ -183,6 +191,8 @@ Tabela oficial de tarifas: [Ecovias Araguaia](https://www.gov.br/antt/pt-br/assu
 Tabela oficial de tarifas: [Autopista Fluminense](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/autopista-fluminense/tarifas-de-pedagio); [Ecovias Ponte](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/ecoponte/tarifas-de-pedagio); [Ecovias Capixaba](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/ecovias-capixaba/tarifas-de-pedagio); [Autopista Litoral Sul](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/autopista-litoral-sul/tarifas-de-pedagios); [ViaCosteira](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/ccr-viacosteira/tarifas-de-pedagio); [ViaSul](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/viasul/tarifas-de-pedagio).
 
 **Free Flow nas concessões desta rodovia:** Autopista Fluminense, previsto; ViaSul, previsto. Os pórticos estão em [Rodovias com Free Flow no Brasil](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW/blob/main/RODOVIAS-COM-FREE-FLOW.md).
+
+**Socorro nesta rodovia:** Autopista Fluminense, 0800 282 0101; Ecovias Ponte, 0800 777 6683; Ecovias Capixaba, 0800 770 1101; Autopista Litoral Sul, 0800 725 1771; ViaCosteira, 0800 255 5550; ViaSul, 0800 000 0290. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
 
 ---
 
@@ -225,6 +235,8 @@ Tabela oficial de tarifas: [RioSP](https://www.gov.br/antt/pt-br/assuntos/rodovi
 
 **Free Flow nas concessões desta rodovia:** RioSP, sim; Ecovias Rio Minas, previsto. Os pórticos estão em [Rodovias com Free Flow no Brasil](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW/blob/main/RODOVIAS-COM-FREE-FLOW.md).
 
+**Socorro nesta rodovia:** RioSP, 0800 017 3536; Autopista Régis Bittencourt, 0800 709 0116; Ecovias Rio Minas, 0800 116 0493; Autopista Planalto Sul, 0800 642 0116. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
+
 ---
 
 ## BR-153
@@ -250,6 +262,8 @@ Tabela oficial de tarifas: [RioSP](https://www.gov.br/antt/pt-br/assuntos/rodovi
 | P2 - Alvorada | TO | Alvorada | 744,91 | ambos | Ecovias Araguaia |
 
 Tabela oficial de tarifas: [Transbrasiliana](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/Transbrasiliana/tarifas-de-pedagio); [Way-153](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/rota-sertaneja/tarifas-de-pedagio); [Ecovias Araguaia](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/ecovias-araguaia/tarifas-de-pedagio).
+
+**Socorro nesta rodovia:** Transbrasiliana, 0800 723 0153; Way-153, 0800 262 0153; Ecovias Araguaia, 0800 153 0153. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
 
 ---
 
@@ -278,6 +292,8 @@ Tabela oficial de tarifas: [Transbrasiliana](https://www.gov.br/antt/pt-br/assun
 
 Tabela oficial de tarifas: [Motiva Pantanal](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/motiva-pantanal/tarifas-de-pedagio); [Nova Rota do Oeste](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/rota-do-oeste/tarifas-de-pedagio); [Via Brasil BR-163](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/via-brasil/tarifas-de-pedagio).
 
+**Socorro nesta rodovia:** Motiva Pantanal, 0800 648 0163; Nova Rota do Oeste, 0800 065 0163; Via Brasil BR-163, 0800 500 0163. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
+
 ---
 
 ## BR-262
@@ -295,6 +311,8 @@ Tabela oficial de tarifas: [Motiva Pantanal](https://www.gov.br/antt/pt-br/assun
 Tabela oficial de tarifas: [Way-262](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/way-262/tarifas-de-pedagio); [Way-153](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/rota-sertaneja/tarifas-de-pedagio).
 
 **Free Flow nas concessões desta rodovia:** Way-262, sim. Os pórticos estão em [Rodovias com Free Flow no Brasil](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW/blob/main/RODOVIAS-COM-FREE-FLOW.md).
+
+**Socorro nesta rodovia:** Way-262, 0800 262 0262; Way-153, 0800 262 0153. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
 
 ---
 
@@ -319,6 +337,8 @@ Tabela oficial de tarifas: [EPR Litoral Pioneiro](https://www.gov.br/antt/pt-br/
 
 **Free Flow nas concessões desta rodovia:** EPR Litoral Pioneiro, previsto; EPR Iguaçu, sim. Os pórticos estão em [Rodovias com Free Flow no Brasil](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW/blob/main/RODOVIAS-COM-FREE-FLOW.md).
 
+**Socorro nesta rodovia:** EPR Litoral Pioneiro, 0800 277 0153; Via Araucária, 0800 277 0376; EPR Iguaçu, 0800 277 0163. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
+
 ---
 
 ## BR-290
@@ -333,6 +353,8 @@ Tabela oficial de tarifas: [EPR Litoral Pioneiro](https://www.gov.br/antt/pt-br/
 Tabela oficial de tarifas: [ViaSul](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/viasul/tarifas-de-pedagio).
 
 **Free Flow nas concessões desta rodovia:** ViaSul, previsto. Os pórticos estão em [Rodovias com Free Flow no Brasil](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW/blob/main/RODOVIAS-COM-FREE-FLOW.md).
+
+**Socorro nesta rodovia:** ViaSul, 0800 000 0290. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
 
 ---
 
@@ -352,6 +374,8 @@ Tabela oficial de tarifas: [ViaSul](https://www.gov.br/antt/pt-br/assuntos/rodov
 
 Tabela oficial de tarifas: [Nova Rota do Oeste](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/rota-do-oeste/tarifas-de-pedagio); [Ecovias Cerrado](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/ecovias-do-cerrado/tarifas-de-pedagio).
 
+**Socorro nesta rodovia:** Nova Rota do Oeste, 0800 065 0163; Ecovias Cerrado, 0800 036 4365. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
+
 ---
 
 ## BR-365
@@ -366,6 +390,8 @@ Tabela oficial de tarifas: [Nova Rota do Oeste](https://www.gov.br/antt/pt-br/as
 | P4 - SANTA VITÓRIA | MG | Santa Vitória | 834,45 | ambos | Ecovias Cerrado |
 
 Tabela oficial de tarifas: [Ecovias Cerrado](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/ecovias-do-cerrado/tarifas-de-pedagio).
+
+**Socorro nesta rodovia:** Ecovias Cerrado, 0800 036 4365. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
 
 ---
 
@@ -385,6 +411,8 @@ Tabela oficial de tarifas: [EPR Litoral Pioneiro](https://www.gov.br/antt/pt-br/
 
 **Free Flow nas concessões desta rodovia:** EPR Litoral Pioneiro, previsto; Via Campo, adiado. Os pórticos estão em [Rodovias com Free Flow no Brasil](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW/blob/main/RODOVIAS-COM-FREE-FLOW.md).
 
+**Socorro nesta rodovia:** EPR Litoral Pioneiro, 0800 277 0153; Via Campo, 0800 369 0163. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
+
 ---
 
 ## BR-373
@@ -396,6 +424,8 @@ Tabela oficial de tarifas: [EPR Litoral Pioneiro](https://www.gov.br/antt/pt-br/
 | P04 Imbituva | PR | Imbituva | 216 | ambos | Via Araucária |
 
 Tabela oficial de tarifas: [Via Araucária](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/via-araucaria/tarifas-de-pedagio).
+
+**Socorro nesta rodovia:** Via Araucária, 0800 277 0376. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
 
 ---
 
@@ -414,6 +444,8 @@ Tabela oficial de tarifas: [Via Araucária](https://www.gov.br/antt/pt-br/assunt
 Tabela oficial de tarifas: [Motiva Paraná](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/pr-vias/tarifas-de-pedagio); [Autopista Litoral Sul](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/autopista-litoral-sul/tarifas-de-pedagios).
 
 **Free Flow nas concessões desta rodovia:** Motiva Paraná, sim. Os pórticos estão em [Rodovias com Free Flow no Brasil](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW/blob/main/RODOVIAS-COM-FREE-FLOW.md).
+
+**Socorro nesta rodovia:** Motiva Paraná, 0800 376 0000; Autopista Litoral Sul, 0800 725 1771. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
 
 ---
 
@@ -434,6 +466,8 @@ Tabela oficial de tarifas: [Motiva Paraná](https://www.gov.br/antt/pt-br/assunt
 
 Tabela oficial de tarifas: [Motiva Minas SP](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/motiva-minas-sp/tarifas-de-pedagio).
 
+**Socorro nesta rodovia:** Motiva Minas SP, 0800 283 0381. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
+
 ---
 
 ## BR-386
@@ -451,6 +485,8 @@ Tabela oficial de tarifas: [ViaSul](https://www.gov.br/antt/pt-br/assuntos/rodov
 
 **Free Flow nas concessões desta rodovia:** ViaSul, previsto. Os pórticos estão em [Rodovias com Free Flow no Brasil](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW/blob/main/RODOVIAS-COM-FREE-FLOW.md).
 
+**Socorro nesta rodovia:** ViaSul, 0800 000 0290. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
+
 ---
 
 ## BR-414
@@ -463,6 +499,8 @@ Tabela oficial de tarifas: [ViaSul](https://www.gov.br/antt/pt-br/assuntos/rodov
 
 Tabela oficial de tarifas: [Ecovias Araguaia](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/ecovias-araguaia/tarifas-de-pedagio).
 
+**Socorro nesta rodovia:** Ecovias Araguaia, 0800 153 0153. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
+
 ---
 
 ## BR-476
@@ -474,6 +512,8 @@ Tabela oficial de tarifas: [Ecovias Araguaia](https://www.gov.br/antt/pt-br/assu
 | P05 Lapa | PR | Lapa | 191,42 | ambos | Via Araucária |
 
 Tabela oficial de tarifas: [Via Araucária](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/via-araucaria/tarifas-de-pedagio).
+
+**Socorro nesta rodovia:** Via Araucária, 0800 277 0376. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
 
 ---
 
@@ -489,6 +529,8 @@ Tabela oficial de tarifas: [Via Araucária](https://www.gov.br/antt/pt-br/assunt
 Tabela oficial de tarifas: [Ecovias Rio Minas](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/ecoriominas/revisoes-e-reajustes/tarifas-de-pedagios).
 
 **Free Flow nas concessões desta rodovia:** Ecovias Rio Minas, previsto. Os pórticos estão em [Rodovias com Free Flow no Brasil](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW/blob/main/RODOVIAS-COM-FREE-FLOW.md).
+
+**Socorro nesta rodovia:** Ecovias Rio Minas, 0800 116 0493. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
 
 ---
 
@@ -516,6 +558,8 @@ Tabela oficial de tarifas: [Ecovias Rio Minas](https://www.gov.br/antt/pt-br/ass
 
 Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios).
 
+**Socorro nesta rodovia:** RodoAnel Oeste, 0800 773 6699; SPMar, 0800 774 8877. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
+
 ---
 
 ## SP-055
@@ -531,6 +575,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 
 **Free Flow nas concessões desta rodovia:** Ecovias dos Imigrantes, adiado. Os pórticos estão em [Rodovias com Free Flow no Brasil](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW/blob/main/RODOVIAS-COM-FREE-FLOW.md).
 
+**Socorro nesta rodovia:** Ecovias dos Imigrantes, 0800 019 7878. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
+
 ---
 
 ## SP-063
@@ -542,6 +588,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 | Louveira | SP | Itatiba | 10,4 | ambos | Rota das Bandeiras |
 
 Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios).
+
+**Socorro nesta rodovia:** Rota das Bandeiras, 0800 770 8070. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
 
 ---
 
@@ -557,6 +605,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 
 Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios).
 
+**Socorro nesta rodovia:** Rota das Bandeiras, 0800 770 8070. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
+
 ---
 
 ## SP-070
@@ -571,6 +621,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 | Caçapava | SP | Caçapava | 114 | ambos | Ecovias Leste Paulista |
 
 Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios).
+
+**Socorro nesta rodovia:** Ecovias Leste Paulista, 0800 777 0070. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
 
 ---
 
@@ -588,6 +640,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 
 **Free Flow nas concessões desta rodovia:** Motiva Sorocabana, sim. Os pórticos estão em [Rodovias com Free Flow no Brasil](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW/blob/main/RODOVIAS-COM-FREE-FLOW.md).
 
+**Socorro nesta rodovia:** Motiva Sorocabana, 0800 252 7280; Via Colinas, 0800 703 5080. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
+
 ---
 
 ## PR-092
@@ -601,6 +655,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 Tabela oficial de tarifas: [EPR Litoral Pioneiro](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/epr-litoral-pioneiro/tarifas-de-pedagio).
 
 **Free Flow nas concessões desta rodovia:** EPR Litoral Pioneiro, previsto. Os pórticos estão em [Rodovias com Free Flow no Brasil](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW/blob/main/RODOVIAS-COM-FREE-FLOW.md).
+
+**Socorro nesta rodovia:** EPR Litoral Pioneiro, 0800 277 0153. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
 
 ---
 
@@ -617,6 +673,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 
 **Free Flow nas concessões desta rodovia:** Tamoios, sim. Os pórticos estão em [Rodovias com Free Flow no Brasil](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW/blob/main/RODOVIAS-COM-FREE-FLOW.md).
 
+**Socorro nesta rodovia:** Tamoios, 0800 545 0000. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
+
 ---
 
 ## SP-101
@@ -629,6 +687,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 | Rafard | SP | Rafard | 55,8 | ambos | Rodovias do Tietê |
 
 Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios).
+
+**Socorro nesta rodovia:** Rodovias do Tietê, 0800 770 3322. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
 
 ---
 
@@ -646,6 +706,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 
 Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios).
 
+**Socorro nesta rodovia:** Via Colinas, 0800 703 5080; SPVias, 0800 703 5030. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
+
 ---
 
 ## SP-147
@@ -660,6 +722,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 
 Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios).
 
+**Socorro nesta rodovia:** Arteris Intervias, 0800 707 1414. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
+
 ---
 
 ## SP-150
@@ -673,6 +737,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios).
 
 **Free Flow nas concessões desta rodovia:** Ecovias dos Imigrantes, adiado. Os pórticos estão em [Rodovias com Free Flow no Brasil](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW/blob/main/RODOVIAS-COM-FREE-FLOW.md).
+
+**Socorro nesta rodovia:** Ecovias dos Imigrantes, 0800 019 7878. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
 
 ---
 
@@ -689,6 +755,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 Tabela oficial de tarifas: [EPR Litoral Pioneiro](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/epr-litoral-pioneiro/tarifas-de-pedagio).
 
 **Free Flow nas concessões desta rodovia:** EPR Litoral Pioneiro, previsto. Os pórticos estão em [Rodovias com Free Flow no Brasil](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW/blob/main/RODOVIAS-COM-FREE-FLOW.md).
+
+**Socorro nesta rodovia:** EPR Litoral Pioneiro, 0800 277 0153. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
 
 ---
 
@@ -707,6 +775,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 
 **Free Flow nas concessões desta rodovia:** Ecovias dos Imigrantes, adiado. Os pórticos estão em [Rodovias com Free Flow no Brasil](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW/blob/main/RODOVIAS-COM-FREE-FLOW.md).
 
+**Socorro nesta rodovia:** Ecovias dos Imigrantes, 0800 019 7878. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
+
 ---
 
 ## SP-191
@@ -720,6 +790,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 
 Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios).
 
+**Socorro nesta rodovia:** Arteris Intervias, 0800 707 1414. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
+
 ---
 
 ## SP-215
@@ -732,6 +804,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 | Descalvado | SP | Descalvado | 104,4 | ambos | Arteris Intervias |
 
 Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios).
+
+**Socorro nesta rodovia:** Arteris Intervias, 0800 707 1414. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
 
 ---
 
@@ -748,6 +822,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 | Santa Cruz do Rio Pardo | SP | Santa Cruz do Rio Pardo | 300,93 | ambos | CART |
 
 Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios).
+
+**Socorro nesta rodovia:** Eixo SP, 0800 170 8998; CART, 0800 773 0090. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
 
 ---
 
@@ -767,6 +843,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 
 Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios).
 
+**Socorro nesta rodovia:** Arteris ViaPaulista, 0800 001 1255; SPVias, 0800 703 5030. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
+
 ---
 
 ## SP-258
@@ -779,6 +857,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 | Itararé | SP | Itararé | 326,637 | ambos | SPVias |
 
 Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios).
+
+**Socorro nesta rodovia:** SPVias, 0800 703 5030. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
 
 ---
 
@@ -797,6 +877,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 | Caiuá | SP | Caiuá | 639 | ambos | CART |
 
 Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios).
+
+**Socorro nesta rodovia:** SPVias, 0800 703 5030; CART, 0800 773 0090. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
 
 ---
 
@@ -820,6 +902,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 
 **Free Flow nas concessões desta rodovia:** Ecovias Raposo Castello, previsto; Motiva Sorocabana, sim. Os pórticos estão em [Rodovias com Free Flow no Brasil](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW/blob/main/RODOVIAS-COM-FREE-FLOW.md).
 
+**Socorro nesta rodovia:** Ecovias Raposo Castello, 0800 029 0280; Motiva Sorocabana, 0800 252 7280; Via Colinas, 0800 703 5080; SPVias, 0800 703 5030. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
+
 ---
 
 ## SP-284
@@ -833,6 +917,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 
 Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios).
 
+**Socorro nesta rodovia:** Eixo SP, 0800 170 8998. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
+
 ---
 
 ## SP-293
@@ -844,6 +930,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 | Cabrália Paulista | SP | Cabrália Paulista | 2 | ambos | Eixo SP |
 
 Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios).
+
+**Socorro nesta rodovia:** Eixo SP, 0800 170 8998. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
 
 ---
 
@@ -862,6 +950,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 | Santa Mercedes | SP | Santa Mercedes | 670,8 | ambos | Eixo SP |
 
 Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios).
+
+**Socorro nesta rodovia:** Eixo SP, 0800 170 8998. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
 
 ---
 
@@ -889,6 +979,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 
 Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios).
 
+**Socorro nesta rodovia:** Via Colinas, 0800 703 5080; Rodovias do Tietê, 0800 770 3322; ViaRondon, 0800 729 9300. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
+
 ---
 
 ## SP-304
@@ -903,6 +995,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 
 Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios).
 
+**Socorro nesta rodovia:** Eixo SP, 0800 170 8998. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
+
 ---
 
 ## SP-308
@@ -916,6 +1010,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 | Piracicaba | SP | Piracicaba | 182,25 | ambos | Eixo SP |
 
 Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios).
+
+**Socorro nesta rodovia:** Rodovias do Tietê, 0800 770 3322; Eixo SP, 0800 170 8998. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
 
 ---
 
@@ -935,6 +1031,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 
 **Free Flow nas concessões desta rodovia:** Ecovias Noroeste Paulista, sim. Os pórticos estão em [Rodovias com Free Flow no Brasil](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW/blob/main/RODOVIAS-COM-FREE-FLOW.md).
 
+**Socorro nesta rodovia:** Eixo SP, 0800 170 8998; Ecovias Noroeste Paulista, 0800 326 3664. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
+
 ---
 
 ## PR-317
@@ -949,6 +1047,8 @@ Tabela oficial de tarifas: [Via Campo](https://www.gov.br/antt/pt-br/assuntos/ro
 
 **Free Flow nas concessões desta rodovia:** Via Campo, adiado. Os pórticos estão em [Rodovias com Free Flow no Brasil](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW/blob/main/RODOVIAS-COM-FREE-FLOW.md).
 
+**Socorro nesta rodovia:** Via Campo, 0800 369 0163. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
+
 ---
 
 ## SP-318
@@ -960,6 +1060,8 @@ Tabela oficial de tarifas: [Via Campo](https://www.gov.br/antt/pt-br/assuntos/ro
 | São Carlos | SP | São Carlos | 254,374 | ambos | Arteris ViaPaulista |
 
 Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios).
+
+**Socorro nesta rodovia:** Arteris ViaPaulista, 0800 001 1255. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
 
 ---
 
@@ -973,6 +1075,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 | Pitangueiras | SP | Pitangueiras | 361,5 | ambos | Entrevias |
 
 Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios).
+
+**Socorro nesta rodovia:** Entrevias, 0800 300 0333. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
 
 ---
 
@@ -988,6 +1092,8 @@ Tabela oficial de tarifas: [Motiva Paraná](https://www.gov.br/antt/pt-br/assunt
 
 **Free Flow nas concessões desta rodovia:** Motiva Paraná, sim. Os pórticos estão em [Rodovias com Free Flow no Brasil](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW/blob/main/RODOVIAS-COM-FREE-FLOW.md).
 
+**Socorro nesta rodovia:** Motiva Paraná, 0800 376 0000. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
+
 ---
 
 ## SP-326
@@ -1002,6 +1108,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 
 **Free Flow nas concessões desta rodovia:** Ecovias Noroeste Paulista, sim. Os pórticos estão em [Rodovias com Free Flow no Brasil](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW/blob/main/RODOVIAS-COM-FREE-FLOW.md).
 
+**Socorro nesta rodovia:** Ecovias Noroeste Paulista, 0800 326 3664. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
+
 ---
 
 ## SP-327
@@ -1013,6 +1121,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 | Ourinhos | SP | Santa Cruz do Rio Pardo | 14,5 | ambos | CART |
 
 Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios).
+
+**Socorro nesta rodovia:** CART, 0800 773 0090. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
 
 ---
 
@@ -1035,6 +1145,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 
 Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios).
 
+**Socorro nesta rodovia:** AutoBAn, 0800 055 5550; Arteris Intervias, 0800 707 1414; Arteris ViaPaulista, 0800 001 1255; Entrevias, 0800 300 0333. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
+
 ---
 
 ## SP-332
@@ -1048,6 +1160,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 | Engenheiro Coelho | SP | Engenheiro Coelho | 159,7 | ambos | Rota das Bandeiras |
 
 Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios).
+
+**Socorro nesta rodovia:** Rota das Bandeiras, 0800 770 8070. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
 
 ---
 
@@ -1064,6 +1178,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 
 Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios).
 
+**Socorro nesta rodovia:** Entrevias, 0800 300 0333. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
+
 ---
 
 ## SP-334
@@ -1076,6 +1192,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 | Restinga | SP | Restinga | 374,5 | ambos | Arteris ViaPaulista |
 
 Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios).
+
+**Socorro nesta rodovia:** Arteris ViaPaulista, 0800 001 1255. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
 
 ---
 
@@ -1094,6 +1212,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 
 **Free Flow nas concessões desta rodovia:** Rota Mogiana, previsto. Os pórticos estão em [Rodovias com Free Flow no Brasil](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW/blob/main/RODOVIAS-COM-FREE-FLOW.md).
 
+**Socorro nesta rodovia:** Rota Mogiana, 0800 055 9696. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
+
 ---
 
 ## SP-342
@@ -1109,6 +1229,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 
 **Free Flow nas concessões desta rodovia:** Rota Mogiana, previsto. Os pórticos estão em [Rodovias com Free Flow no Brasil](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW/blob/main/RODOVIAS-COM-FREE-FLOW.md).
 
+**Socorro nesta rodovia:** Rota Mogiana, 0800 055 9696. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
+
 ---
 
 ## SP-344
@@ -1123,6 +1245,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios).
 
 **Free Flow nas concessões desta rodovia:** Rota Mogiana, previsto. Os pórticos estão em [Rodovias com Free Flow no Brasil](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW/blob/main/RODOVIAS-COM-FREE-FLOW.md).
+
+**Socorro nesta rodovia:** Rota Mogiana, 0800 055 9696. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
 
 ---
 
@@ -1140,6 +1264,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 
 Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios).
 
+**Socorro nesta rodovia:** AutoBAn, 0800 055 5550. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
+
 ---
 
 ## SP-350
@@ -1154,6 +1280,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 
 **Free Flow nas concessões desta rodovia:** Rota Mogiana, previsto. Os pórticos estão em [Rodovias com Free Flow no Brasil](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW/blob/main/RODOVIAS-COM-FREE-FLOW.md).
 
+**Socorro nesta rodovia:** Rota Mogiana, 0800 055 9696. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
+
 ---
 
 ## SP-360
@@ -1165,6 +1293,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 | Jundiaí | SP | Itatiba | 77,1 | ambos | Rota das Bandeiras |
 
 Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios).
+
+**Socorro nesta rodovia:** Rota das Bandeiras, 0800 770 8070. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
 
 ---
 
@@ -1178,6 +1308,8 @@ Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-re
 | Indiana | SP | Indiana | 436 | ambos | Eixo SP |
 
 Tabela oficial de tarifas: [ARTESP](https://www.artesp.sp.gov.br/artesp/setor-regulado/rodovia/pedagios).
+
+**Socorro nesta rodovia:** Eixo SP, 0800 170 8998. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
 
 ---
 

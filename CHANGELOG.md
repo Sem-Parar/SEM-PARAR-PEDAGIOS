@@ -8,6 +8,7 @@ Todas as mudanças relevantes deste repositório são registradas aqui. O format
 
 - **Praças das rodovias estaduais dos demais estados e das municipais**, em levantamento concessão por concessão.
 - **Link para o repositório irmão [Guincho e socorro nas rodovias do Brasil](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO)** no README e na página de concessões, com o telefone de socorro de cada concessão.
+- **Socorro nesta rodovia:** cada rodovia da página [Praças de pedágio por rodovia](PRACAS-DE-PEDAGIO-POR-RODOVIA.md) mostra o 0800 de socorro de cada concessão, lido da base aberta do repositório de guincho.
 
 ---
 
