@@ -4,7 +4,7 @@
 
 Esta página existe para que qualquer pessoa possa auditar o que está publicado: de onde veio cada número, o que conta como uma praça, como cada cadastro oficial vira este inventário e o que fazemos quando duas fontes discordam.
 
-> Publicado em 9 de novembro de 2026.
+> Publicado em 19 de novembro de 2026.
 > Parte do repositório [Praças de pedágio do Brasil, pelo Sem Parar](../README.md). O significado de cada coluna das bases está no [dicionário de dados](../dados/README.md).
 
 ---
@@ -65,7 +65,7 @@ Todo número que conta coisas depende de uma definição, e a nossa está escrit
 
 ## Do cadastro da ANTT às praças federais
 
-O cadastro de praças da ANTT, na versão de 3 de novembro de 2026, tem **289 registros**, todos marcados como ativos. Este é o caminho até as **163 praças federais** deste repositório:
+O cadastro de praças da ANTT, na versão de 3 de novembro de 2026, tem **289 registros**, todos marcados como ativos. Este é o caminho até as **162 praças federais** deste repositório:
 
 | Etapa | Registros | Sobram |
 |---|:---:|:---:|
@@ -74,9 +74,12 @@ O cadastro de praças da ANTT, na versão de 3 de novembro de 2026, tem **289 re
 | Praças com data de inativação preenchida | 4 | 182 |
 | Contratos encerrados ou com caducidade declarada (Concer 3, Ecovias Sul 5, Rodovia do Aço 3) | 11 | 171 |
 | Estruturas de Viúva Graça listadas também sob a Ecovias Rio Minas | 2 | 169 |
-| Registros por sentido reunidos numa praça (Moreira César, Jacareí, Arujá, Itatiaia e Mairiporã) | 6 | **163** |
+| Registros por sentido reunidos numa praça (Moreira César, Jacareí, Arujá, Itatiaia e Mairiporã) | 6 | 163 |
+| Praças que viraram pórtico depois da data do cadastro: Simão Pereira (MG), BR-040, Elovias | 1 | **162** |
 
 As quatro praças com data de inativação são: Concebra P4 ITUMBIARA, em 22/05/2026; Concebra P3 PROF JAMIL, em 22/05/2026; Ecovias Do Cerrado P5 - PARANAIGUARA, em 07/05/2026; Ecovias Minas Goiás DELTA, em 26/07/2024. Duas delas, as da Concebra na BR-153, estão hoje com a Way-153, que tem registro próprio no cadastro.
+
+**Mudanças depois de 3 de novembro de 2026.** Simão Pereira (MG), da Elovias, na BR-040, virou pórtico em 16 de novembro de 2026 e saiu. O identificador que ela tinha na base, F042, fica reservado e não é reaproveitado.
 
 ---
 
@@ -110,7 +113,7 @@ Divergência registrada é sinal de qualidade, não de erro escondido. Estas sã
 | Viúva Graça e Viuvinha, Seropédica | As mesmas duas estruturas sob a RioSP (km 207,1 e 208,6) e sob a Ecovias Rio Minas (km 211,674 e 213,103) | Uma vez cada, sob a RioSP, com a divergência na observação da linha |
 | Concebra e Way-153, BR-153 | Praças nos mesmos locais, a da Concebra com data de inativação de 22/05/2026 e município diferente | Só a Way-153 |
 | Ecovias Cerrado (Paranaiguara) e Ecovias Minas Goiás (Delta) | Situação ativa com data de inativação preenchida | A data de inativação prevalece; fora da contagem |
-| Simão Pereira, Elovias, BR-040 | Praça ativa | Praça ativa, com a troca por Free Flow autorizada pela ANTT em 04/11/2026 e anunciada para 16/11/2026 registrada na observação |
+| Simão Pereira, Elovias, BR-040 | Praça ativa no cadastro de 3 de novembro de 2026 | Fora da contagem: o pórtico de Free Flow do km 831 cobra desde 16/11/2026, no lugar da praça |
 | `tipo_de_pista` | "Principal" em todos os registros, inclusive nas praças auxiliares de Jacarezinho | `tipo` = `bloqueio` nas duas praças auxiliares, que o próprio cadastro localiza no acesso para a SP-278 e na saída para a BR-153 |
 | Tebe e ViaOeste, cadastro da ARTESP | Praças ativas sob contratos já encerrados | Fora da contagem; as mesmas praças entram sob a Ecovias Noroeste Paulista, a Motiva Sorocabana e a Ecovias Raposo Castello |
 | Ecovias Raposo Castello, cadastro da ARTESP | Município em branco nas três praças | Município da tabela oficial de tarifas da concessionária (Osasco, Barueri e Itapevi), com a origem na observação |
@@ -162,7 +165,7 @@ Tudo que muda fica registrado no [CHANGELOG](../CHANGELOG.md).
 
 O conteúdo e as bases estão sob [CC BY 4.0](../LICENSE): o reuso é livre, inclusive comercial, desde que citada a fonte.
 
-> Sem Parar. *Praças de pedágio do Brasil: base aberta das praças com cabine nas rodovias concedidas.* Versão 0.2.0. Consultado em [data]. Disponível em: https://github.com/Sem-Parar/SEM-PARAR-PEDAGIOS
+> Sem Parar. *Praças de pedágio do Brasil: base aberta das praças com cabine nas rodovias concedidas.* Versão 0.2.1. Consultado em [data]. Disponível em: https://github.com/Sem-Parar/SEM-PARAR-PEDAGIOS
 
 ---
 
@@ -186,7 +189,7 @@ Se preferir, a contratação também pode ser feita pelo SuperApp Sem Parar.
 
 <br>
 
-<sub>Repositório oficial mantido pelo <strong>Sem Parar</strong>. Conteúdo e dados sob <a href="../LICENSE">CC BY 4.0</a>. Última revisão dos dados em 9 de novembro de 2026.</sub>
+<sub>Repositório oficial mantido pelo <strong>Sem Parar</strong>. Conteúdo e dados sob <a href="../LICENSE">CC BY 4.0</a>. Última revisão dos dados em 19 de novembro de 2026.</sub>
 
 <sub><strong>Você com mais tempo para o que importa.</strong> #TudoProSeuCarro</sub>
 
