@@ -1,7 +1,6 @@
 rodovia,nome_popular,uf,concessao,esfera,n_pracas,municipios_com_praca,free_flow_na_concessao,fonte,atualizado_em
-BR-040,Rio-Juiz de Fora,RJ,Elovias,federal,2,Petrópolis; Duque de Caxias,anunciado,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
+BR-040,Rio-Juiz de Fora,RJ,Elovias,federal,2,Petrópolis; Duque de Caxias,sim,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
 BR-040,n/d,MG,EPR Via Mineira,federal,3,Itabirito; Conselheiro Lafaiete; Barbacena,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
-BR-040,Rio-Juiz de Fora,MG,Elovias,federal,1,Simão Pereira,anunciado,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
 BR-040,n/d,MG,Via Cristais,federal,7,Paracatu; Lagoa Grande; João Pinheiro; São Gonçalo do Abaeté; Felixlândia; Curvelo; Capim Branco,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
 BR-050,n/d,MG,Ecovias Minas Goiás,federal,3,Araguari; Uberaba,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09
 BR-050,n/d,GO,Ecovias Minas Goiás,federal,2,Ipameri; Campo Alegre de Goiás,não,https://dados.antt.gov.br/dataset/praca-de-pedagio,2026-11-09

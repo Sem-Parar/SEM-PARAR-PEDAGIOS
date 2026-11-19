@@ -4,9 +4,9 @@ Esta pasta guarda as bases públicas do repositório, em **CSV**, publicadas pel
 
 | Base | O que traz | Linhas |
 |---|---|:---:|
-| [pracas-de-pedagio](pracas-de-pedagio.csv) | Inventário praça a praça, com rodovia, km, município, sentido cobrado, concessão, coordenadas e link da tabela oficial de tarifas | 319 |
+| [pracas-de-pedagio](pracas-de-pedagio.csv) | Inventário praça a praça, com rodovia, km, município, sentido cobrado, concessão, coordenadas e link da tabela oficial de tarifas | 318 |
 | [concessoes-rodoviarias](concessoes-rodoviarias.csv) | Quem administra cada rodovia: concessão, esfera, órgão regulador, rodovias, estados, número de praças e situação do Free Flow | 49 |
-| [rodovias-pedagiadas](rodovias-pedagiadas.csv) | Uma linha por rodovia, concessão e estado, com o nome popular do trecho e os municípios com praça | 112 |
+| [rodovias-pedagiadas](rodovias-pedagiadas.csv) | Uma linha por rodovia, concessão e estado, com o nome popular do trecho e os municípios com praça | 111 |
 
 Codificação **UTF-8**, separador **vírgula**, quebra de linha **CRLF** (padrão RFC 4180), datas em **ISO** (`AAAA-MM-DD`), decimais com **ponto**. Listas dentro de uma célula usam **ponto e vírgula**. Se o Excel embaralhar os acentos, abra pelo menu **Dados**, opção de importar texto, e escolha **UTF-8**.
 
