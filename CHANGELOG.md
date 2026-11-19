@@ -7,8 +7,28 @@ Todas as mudanças relevantes deste repositório são registradas aqui. O format
 ## [Não publicado]
 
 - **Praças das rodovias estaduais dos demais estados e das municipais**, em levantamento concessão por concessão.
+
+---
+
+## [0.2.1], 2026-11-19
+
+A praça de Simão Pereira (MG), na BR-040, sai da base: desde 16 de novembro de 2026, a Elovias cobra no pórtico de Free Flow do km 831 no lugar dela. O total vai de 319 para **318 praças**, com **162 federais** e 156 estaduais de São Paulo, em **66 rodovias** e **49 concessões**.
+
+### Alterado
+
+- **[`dados/pracas-de-pedagio.csv`](dados/pracas-de-pedagio.csv)** fica com 318 linhas. O identificador F042, que era de Simão Pereira, fica reservado; nenhuma outra praça muda de identificador.
+- **A Elovias** passa a constar com Free Flow `sim` em [`dados/concessoes-rodoviarias.csv`](dados/concessoes-rodoviarias.csv), com 2 praças com cabine, ambas no Rio de Janeiro. [`dados/rodovias-pedagiadas.csv`](dados/rodovias-pedagiadas.csv) perde a linha da BR-040 em Minas Gerais e vai a 111 linhas.
+- **[Metodologia e fontes](docs/metodologia-e-fontes.md)** ganha a etapa das praças federais que viraram pórtico depois da data do cadastro da ANTT, e a divergência de Simão Pereira passa a registrar a saída.
+- **[Concessões rodoviárias](CONCESSOES-RODOVIARIAS.md)** e **README** atualizados com a conversão.
+
+### Adicionado
+
 - **Link para o repositório irmão [Guincho e socorro nas rodovias do Brasil](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO)** no README e na página de concessões, com o telefone de socorro de cada concessão.
 - **Socorro nesta rodovia:** cada rodovia da página [Praças de pedágio por rodovia](PRACAS-DE-PEDAGIO-POR-RODOVIA.md) mostra o 0800 de socorro de cada concessão, lido da base aberta do repositório de guincho.
+
+### Notas de dado
+
+- **Colina**, da Ecovias Noroeste Paulista, na SP-326, segue na base, com o pórtico anunciado para 1º de dezembro de 2026 na observação.
 
 ---
 
