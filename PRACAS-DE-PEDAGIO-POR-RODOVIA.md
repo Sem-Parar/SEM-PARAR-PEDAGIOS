@@ -1,8 +1,8 @@
 # Praças de pedágio por rodovia: km, sentido e concessionária de cada uma
 
-**As 319 praças de pedágio com cabine desta base estão em 66 rodovias, e a BR-116 lidera com 28.** Abaixo, cada rodovia com as praças na ordem do quilômetro, o município, o sentido cobrado e a concessionária responsável, mais o link da tabela oficial de tarifas. As federais vêm primeiro, pela sigla BR, e as estaduais de São Paulo depois, pela sigla SP.
+**As 318 praças de pedágio com cabine desta base estão em 66 rodovias, e a BR-116 lidera com 28.** Abaixo, cada rodovia com as praças na ordem do quilômetro, o município, o sentido cobrado e a concessionária responsável, mais o link da tabela oficial de tarifas. As federais vêm primeiro, pela sigla BR, e as estaduais de São Paulo depois, pela sigla SP.
 
-> Publicado em 9 de novembro de 2026. Gerado a partir de [`dados/pracas-de-pedagio.csv`](dados/pracas-de-pedagio.csv), com o cadastro da ANTT de 3 de novembro de 2026 e o cadastro de ativos da ARTESP de 30 de maio de 2025, conferido contra as passagens de 2026.
+> Publicado em 19 de novembro de 2026. Gerado a partir de [`dados/pracas-de-pedagio.csv`](dados/pracas-de-pedagio.csv), com o cadastro da ANTT de 3 de novembro de 2026 e o cadastro de ativos da ARTESP de 30 de maio de 2025, conferido contra as passagens de 2026.
 > Parte do repositório [Praças de pedágio do Brasil, pelo Sem Parar](README.md). Esta versão cobre as concessões federais e as estaduais de São Paulo; as estaduais dos demais estados e as municipais entram nas próximas.
 
 Onde a rodovia também tem Free Flow, os pórticos ficam no repositório irmão, em [Rodovias com Free Flow no Brasil](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW/blob/main/RODOVIAS-COM-FREE-FLOW.md). Para saber quanto custa uma viagem inteira, use o [Trace Sua Rota](https://www.semparar.com.br/trace-sua-rota?utm_source=github&utm_medium=rodovias&utm_campaign=sem-parar-pedagios).
@@ -15,7 +15,7 @@ Onde a rodovia também tem Free Flow, os pórticos ficam no repositório irmão,
 
 | Rodovia | Nome popular do trecho | Praças | Estados |
 |---|---|:---:|---|
-| [BR-040](#br-040) | Rio-Juiz de Fora | 13 | RJ, MG |
+| [BR-040](#br-040) | Rio-Juiz de Fora | 12 | RJ, MG |
 | [BR-050](#br-050) |  | 5 | MG, GO |
 | [BR-060](#br-060) |  | 2 | GO |
 | [BR-080](#br-080) |  | 1 | GO |
@@ -86,7 +86,7 @@ Onde a rodovia também tem Free Flow, os pórticos ficam no repositório irmão,
 
 ## BR-040
 
-**13 praças** em RJ, MG: Elovias, 3 praças (Rio-Juiz de Fora); Via Cristais, 7 praças; EPR Via Mineira, 3 praças.
+**12 praças** em RJ, MG: Elovias, 2 praças (Rio-Juiz de Fora); Via Cristais, 7 praças; EPR Via Mineira, 3 praças.
 
 | Praça (cadastro oficial) | UF | Município | km | Sentido cobrado | Concessão |
 |---|:---:|---|:---:|---|---|
@@ -102,11 +102,10 @@ Onde a rodovia também tem Free Flow, os pórticos ficam no repositório irmão,
 | P1 - Itabirito | MG | Itabirito | 577,2 | ambos | EPR Via Mineira |
 | P2 - Lafaiete | MG | Conselheiro Lafaiete | 642,85 | ambos | EPR Via Mineira |
 | P3 - Barbacena | MG | Barbacena | 714,1 | ambos | EPR Via Mineira |
-| P3 | MG | Simão Pereira | 819,379 | ambos | Elovias |
 
 Tabela oficial de tarifas: [Elovias](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/elovias/tarifas-de-pedagio); [Via Cristais](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/via-cristais/revisoes-e-reajustes/tarifas-de-pedagio); [EPR Via Mineira](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/epr-via-mineira/tarifas-de-pedagios-via-mineira).
 
-**Free Flow nas concessões desta rodovia:** Elovias, anunciado. Os pórticos estão em [Rodovias com Free Flow no Brasil](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW/blob/main/RODOVIAS-COM-FREE-FLOW.md).
+**Free Flow nas concessões desta rodovia:** Elovias, sim. Os pórticos estão em [Rodovias com Free Flow no Brasil](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW/blob/main/RODOVIAS-COM-FREE-FLOW.md).
 
 **Socorro nesta rodovia:** Elovias, 0800 040 0495; Via Cristais, 0800 070 0040; EPR Via Mineira, 0800 003 1040. Todos os números estão em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md).
 
@@ -1360,7 +1359,7 @@ Se preferir, a contratação também pode ser feita pelo SuperApp Sem Parar.
 
 <br>
 
-<sub>Repositório oficial mantido pelo <strong>Sem Parar</strong>. Conteúdo e dados sob <a href="LICENSE">CC BY 4.0</a>. Última revisão dos dados em 9 de novembro de 2026.</sub>
+<sub>Repositório oficial mantido pelo <strong>Sem Parar</strong>. Conteúdo e dados sob <a href="LICENSE">CC BY 4.0</a>. Última revisão dos dados em 19 de novembro de 2026.</sub>
 
 <sub><strong>Você com mais tempo para o que importa.</strong> #TudoProSeuCarro</sub>
 

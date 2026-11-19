@@ -2,7 +2,7 @@
 
 **São Paulo é o estado com mais praças de pedágio com cabine nesta base, 173, somando as 17 das rodovias federais e as 156 das estaduais.** Abaixo, cada um dos 12 estados com o total, a divisão entre federais e estaduais e as praças município a município, com rodovia, km e concessionária.
 
-> Publicado em 9 de novembro de 2026. Gerado a partir de [`dados/pracas-de-pedagio.csv`](dados/pracas-de-pedagio.csv), com o cadastro da ANTT de 3 de novembro de 2026 e o cadastro de ativos da ARTESP de 30 de maio de 2025.
+> Publicado em 19 de novembro de 2026. Gerado a partir de [`dados/pracas-de-pedagio.csv`](dados/pracas-de-pedagio.csv), com o cadastro da ANTT de 3 de novembro de 2026 e o cadastro de ativos da ARTESP de 30 de maio de 2025.
 > Parte do repositório [Praças de pedágio do Brasil, pelo Sem Parar](README.md). Esta versão cobre as rodovias federais em todos os estados e as estaduais de São Paulo; as estaduais dos demais estados e as municipais entram nas próximas.
 
 O município é o do cadastro oficial, que nem sempre coincide com o nome da praça. Para ver as praças na ordem da estrada, use [Praças de pedágio por rodovia](PRACAS-DE-PEDAGIO-POR-RODOVIA.md). Para o custo de uma viagem inteira, o [Trace Sua Rota](https://www.semparar.com.br/trace-sua-rota?utm_source=github&utm_medium=estados&utm_campaign=sem-parar-pedagios) soma as praças do caminho.
@@ -14,7 +14,7 @@ O município é o do cadastro oficial, que nem sempre coincide com o nome da pra
 | Estado | Praças | Federais | Estaduais | Municípios | Concessões |
 |---|:---:|:---:|:---:|:---:|:---:|
 | [São Paulo](#são-paulo) | 173 | 17 | 156 | 135 | 24 |
-| [Minas Gerais](#minas-gerais) | 38 | 38 | 0 | 37 | 9 |
+| [Minas Gerais](#minas-gerais) | 37 | 37 | 0 | 36 | 8 |
 | [Paraná](#paraná) | 31 | 31 | 0 | 27 | 8 |
 | [Goiás](#goiás) | 15 | 15 | 0 | 15 | 5 |
 | [Rio de Janeiro](#rio-de-janeiro) | 14 | 14 | 0 | 12 | 5 |
@@ -25,7 +25,7 @@ O município é o do cadastro oficial, que nem sempre coincide com o nome da pra
 | [Rio Grande do Sul](#rio-grande-do-sul) | 7 | 7 | 0 | 7 | 1 |
 | [Tocantins](#tocantins) | 2 | 2 | 0 | 2 | 1 |
 | [Pará](#pará) | 1 | 1 | 0 | 1 | 1 |
-| **Total** | **319** | **163** | **156** | | **49** |
+| **Total** | **318** | **162** | **156** | | **49** |
 
 ---
 
@@ -213,7 +213,7 @@ O município é o do cadastro oficial, que nem sempre coincide com o nome da pra
 
 ## Minas Gerais
 
-**38 praças com cabine em 37 municípios, todas federais, de 9 concessões: Ecovias Cerrado, Ecovias Minas Goiás, Ecovias Rio Minas, Elovias, EPR Via Mineira, Motiva Minas SP, Via Cristais, Way-153, Way-262.** Araguari é o município com mais praças, 2. Nesta versão, só as praças federais do estado estão na base.
+**37 praças com cabine em 36 municípios, todas federais, de 8 concessões: Ecovias Cerrado, Ecovias Minas Goiás, Ecovias Rio Minas, EPR Via Mineira, Motiva Minas SP, Via Cristais, Way-153, Way-262.** Araguari é o município com mais praças, 2. Nesta versão, só as praças federais do estado estão na base.
 
 | Município | Praça | Rodovia | km | Esfera | Concessão |
 |---|---|---|:---:|---|---|
@@ -252,7 +252,6 @@ O município é o do cadastro oficial, que nem sempre coincide com o nome da pra
 | São Gonçalo do Abaeté | P4 - São Gonçalo do Abaeté | BR-040 | 254,1 | federal | Via Cristais |
 | São Gonçalo do Sapucaí | 4 (São Gonçalo) | BR-381 | 805,2 | federal | Motiva Minas SP |
 | São João do Manhuaçu | P12 São João do Manhuaçu | BR-116 | 610,94 | federal | Ecovias Rio Minas |
-| Simão Pereira | P3 | BR-040 | 819,379 | federal | Elovias |
 | Uberaba | UBERABA | BR-050 | 104,98 | federal | Ecovias Minas Goiás |
 | Uberlândia | P1 - UBERLÂNDIA | BR-365 | 646 | federal | Ecovias Cerrado |
 
@@ -498,7 +497,7 @@ Se preferir, a contratação também pode ser feita pelo SuperApp Sem Parar.
 
 <br>
 
-<sub>Repositório oficial mantido pelo <strong>Sem Parar</strong>. Conteúdo e dados sob <a href="LICENSE">CC BY 4.0</a>. Última revisão dos dados em 9 de novembro de 2026.</sub>
+<sub>Repositório oficial mantido pelo <strong>Sem Parar</strong>. Conteúdo e dados sob <a href="LICENSE">CC BY 4.0</a>. Última revisão dos dados em 19 de novembro de 2026.</sub>
 
 <sub><strong>Você com mais tempo para o que importa.</strong> #TudoProSeuCarro</sub>
 
