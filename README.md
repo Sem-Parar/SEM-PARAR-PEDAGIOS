@@ -8,7 +8,7 @@
 
 <p>
 <img src="https://img.shields.io/badge/mantido%20pelo-Sem%20Parar-D60B52?style=flat-square" alt="Mantido pelo Sem Parar">
-<img src="https://img.shields.io/badge/pra%C3%A7as%20com%20cabine-319-D60B52?style=flat-square" alt="Praças de pedágio com cabine no inventário">
+<img src="https://img.shields.io/badge/pra%C3%A7as%20com%20cabine-318-D60B52?style=flat-square" alt="Praças de pedágio com cabine no inventário">
 <img src="https://img.shields.io/badge/concess%C3%B5es-49-525251?style=flat-square" alt="Concessões com praça de pedágio">
 <img src="https://img.shields.io/badge/estados-12-525251?style=flat-square" alt="Estados com praça no inventário">
 <img src="https://img.shields.io/badge/cobertura-federal%20e%20SP-525251?style=flat-square" alt="Cobertura desta versão">
@@ -24,9 +24,9 @@
 
 ## Quantas praças de pedágio existem nas rodovias concedidas?
 
-**Em 9 de novembro de 2026, as rodovias concedidas cobertas por esta base têm 319 praças de pedágio com cabine: 163 nas rodovias federais e 156 nas rodovias estaduais de São Paulo, operadas por 49 concessionárias em 12 estados.** São Paulo é o estado com mais praças (173, somando federais e estaduais), e a BR-116 é a rodovia com mais praças (28). Cada número sai de cadastro oficial, da ANTT nas federais e da ARTESP nas paulistas, conferido praça a praça, sem os pórticos de Free Flow e sem os contratos que já se encerraram.
+**Em 19 de novembro de 2026, as rodovias concedidas cobertas por esta base têm 318 praças de pedágio com cabine: 162 nas rodovias federais e 156 nas rodovias estaduais de São Paulo, operadas por 49 concessionárias em 12 estados.** São Paulo é o estado com mais praças (173, somando federais e estaduais), e a BR-116 é a rodovia com mais praças (28). Cada número sai de cadastro oficial, da ANTT nas federais e da ARTESP nas paulistas, conferido praça a praça, sem os pórticos de Free Flow e sem os contratos que já se encerraram.
 
-> **Versão 0.2.0: rodovias federais e estaduais de São Paulo.** As praças estaduais dos demais estados e as municipais entram nas próximas versões. Cada inclusão é registrada no [CHANGELOG](CHANGELOG.md).
+> **Versão 0.2.1: rodovias federais e estaduais de São Paulo.** As praças estaduais dos demais estados e as municipais entram nas próximas versões. Cada inclusão é registrada no [CHANGELOG](CHANGELOG.md).
 
 ---
 
@@ -44,10 +44,10 @@ A informação sobre essas praças existe, mas chega espalhada. A ANTT publica a
 
 | Página | O que responde |
 |---|---|
-| [Praças de pedágio por estado: quantas são e onde ficam](PRACAS-DE-PEDAGIO-POR-ESTADO.md) | As 319 praças estado a estado, separadas em federais e estaduais, com o município de cada uma |
-| [Praças de pedágio por rodovia: km, sentido e concessionária de cada uma](PRACAS-DE-PEDAGIO-POR-RODOVIA.md) | As 319 praças rodovia por rodovia, na ordem do quilômetro, com município, sentido cobrado e quem cobra |
+| [Praças de pedágio por estado: quantas são e onde ficam](PRACAS-DE-PEDAGIO-POR-ESTADO.md) | As 318 praças estado a estado, separadas em federais e estaduais, com o município de cada uma |
+| [Praças de pedágio por rodovia: km, sentido e concessionária de cada uma](PRACAS-DE-PEDAGIO-POR-RODOVIA.md) | As 318 praças rodovia por rodovia, na ordem do quilômetro, com município, sentido cobrado e quem cobra |
 | [Concessões rodoviárias com pedágio no Brasil: quem administra cada rodovia](CONCESSOES-RODOVIARIAS.md) | As 49 concessões com praça, as 7 que cobram só por pórtico, os contratos encerrados e onde está a tabela oficial de cada uma |
-| [Metodologia e fontes: como a base de praças de pedágio é feita](docs/metodologia-e-fontes.md) | O que conta como uma praça, como os cadastros da ANTT e da ARTESP viram 319 praças e o que fazemos quando duas fontes discordam |
+| [Metodologia e fontes: como a base de praças de pedágio é feita](docs/metodologia-e-fontes.md) | O que conta como uma praça, como os cadastros da ANTT e da ARTESP viram 318 praças e o que fazemos quando duas fontes discordam |
 | [Dicionário de dados](dados/README.md) | O significado de cada coluna das bases abertas em CSV |
 
 Novas páginas entram por versão, e cada uma delas é linkada aqui.
@@ -70,12 +70,12 @@ Novas páginas entram por versão, e cada uma delas é linkada aqui.
 
 ## Praças de pedágio por estado
 
-Praças com cabine nas rodovias concedidas, gerado a partir de [`dados/pracas-de-pedagio.csv`](dados/pracas-de-pedagio.csv) em **9 de novembro de 2026**.
+Praças com cabine nas rodovias concedidas, gerado a partir de [`dados/pracas-de-pedagio.csv`](dados/pracas-de-pedagio.csv) em **19 de novembro de 2026**.
 
 | Estado | Praças | Federais | Estaduais | Rodovias | Concessões |
 |---|:---:|:---:|:---:|:---:|:---:|
 | [São Paulo](PRACAS-DE-PEDAGIO-POR-ESTADO.md#são-paulo) | 173 | 17 | 156 | 44 | 24 |
-| [Minas Gerais](PRACAS-DE-PEDAGIO-POR-ESTADO.md#minas-gerais) | 38 | 38 | 0 | 7 | 9 |
+| [Minas Gerais](PRACAS-DE-PEDAGIO-POR-ESTADO.md#minas-gerais) | 37 | 37 | 0 | 7 | 8 |
 | [Paraná](PRACAS-DE-PEDAGIO-POR-ESTADO.md#paraná) | 31 | 31 | 0 | 10 | 8 |
 | [Goiás](PRACAS-DE-PEDAGIO-POR-ESTADO.md#goiás) | 15 | 15 | 0 | 6 | 5 |
 | [Rio de Janeiro](PRACAS-DE-PEDAGIO-POR-ESTADO.md#rio-de-janeiro) | 14 | 14 | 0 | 4 | 5 |
@@ -86,7 +86,7 @@ Praças com cabine nas rodovias concedidas, gerado a partir de [`dados/pracas-de
 | [Rio Grande do Sul](PRACAS-DE-PEDAGIO-POR-ESTADO.md#rio-grande-do-sul) | 7 | 7 | 0 | 3 | 1 |
 | [Tocantins](PRACAS-DE-PEDAGIO-POR-ESTADO.md#tocantins) | 2 | 2 | 0 | 1 | 1 |
 | [Pará](PRACAS-DE-PEDAGIO-POR-ESTADO.md#pará) | 1 | 1 | 0 | 1 | 1 |
-| **Total** | **319** | **163** | **156** | **66** | **49** |
+| **Total** | **318** | **162** | **156** | **66** | **49** |
 
 Uma concessão que atravessa a divisa conta em cada estado em que tem praça, por isso a coluna de concessões não soma o total. Nesta versão, a coluna de estaduais cobre só São Paulo; nos outros estados aparecem as praças federais. Os estados que não aparecem aqui não têm praça federal no cadastro da ANTT nesta data. A lista praça a praça de cada estado está em **[Praças de pedágio por estado](PRACAS-DE-PEDAGIO-POR-ESTADO.md)**.
 
@@ -102,7 +102,7 @@ Uma concessão que atravessa a divisa conta em cada estado em que tem praça, po
 | [**BR-153**](PRACAS-DE-PEDAGIO-POR-RODOVIA.md#br-153) (Transbrasiliana) | 15 | SP, MG, GO, TO | Ecovias Araguaia, Transbrasiliana, Way-153 |
 | [**SP-021**](PRACAS-DE-PEDAGIO-POR-RODOVIA.md#sp-021) (Rodoanel Mario Covas) | 15 | SP | RodoAnel Oeste, SPMar |
 | [**SP-300**](PRACAS-DE-PEDAGIO-POR-RODOVIA.md#sp-300) (Marechal Rondon) | 15 | SP | Rodovias do Tietê, Via Colinas, ViaRondon |
-| [**BR-040**](PRACAS-DE-PEDAGIO-POR-RODOVIA.md#br-040) (Rio-Juiz de Fora) | 13 | RJ, MG | Elovias, EPR Via Mineira, Via Cristais |
+| [**BR-040**](PRACAS-DE-PEDAGIO-POR-RODOVIA.md#br-040) (Rio-Juiz de Fora) | 12 | RJ, MG | Elovias, EPR Via Mineira, Via Cristais |
 | [**BR-277**](PRACAS-DE-PEDAGIO-POR-RODOVIA.md#br-277) | 10 | PR | EPR Iguaçu, EPR Litoral Pioneiro, Via Araucária |
 
 A lista completa, com cada praça na ordem do quilômetro, está em **[Praças de pedágio por rodovia](PRACAS-DE-PEDAGIO-POR-RODOVIA.md)**.
@@ -115,7 +115,7 @@ A lista completa, com cada praça na ordem do quilômetro, está em **[Praças d
 
 **O Free Flow é o pedágio sem cancela**, cobrado por pórtico, pela tag ou pela leitura da placa. Os pórticos ficam no repositório irmão, em [Rodovias com Free Flow no Brasil](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW/blob/main/RODOVIAS-COM-FREE-FLOW.md).
 
-As duas formas convivem. 7 concessões deste inventário já cobram também por pórtico (EPR Iguaçu, Motiva Paraná, RioSP, Way-262, Ecovias Noroeste Paulista, Motiva Sorocabana, Tamoios). Outras cobram só por pórtico, sem nenhuma praça com cabine: 5 federais (Nova 364, Nova 381, Rota Verde Goiás, Way-364, EPR Paraná) e 2 paulistas (Novo Litoral, Via SP Serra (Rodoanel Norte)).
+As duas formas convivem. 8 concessões deste inventário já cobram também por pórtico (Elovias, EPR Iguaçu, Motiva Paraná, RioSP, Way-262, Ecovias Noroeste Paulista, Motiva Sorocabana, Tamoios). Outras cobram só por pórtico, sem nenhuma praça com cabine: 5 federais (Nova 364, Nova 381, Rota Verde Goiás, Way-364, EPR Paraná) e 2 paulistas (Novo Litoral, Via SP Serra (Rodoanel Norte)).
 
 ---
 
@@ -132,7 +132,7 @@ Para saber quanto uma viagem inteira vai custar, com todas as praças do caminho
 <details>
 <summary><strong>Quantas praças de pedágio existem no Brasil?</strong></summary>
 
-Esta base soma **319 praças com cabine** em 9 de novembro de 2026: 163 nas rodovias federais concedidas e 156 nas estaduais de São Paulo, operadas por 49 concessionárias em 12 estados. A contagem nacional completa, com as estaduais dos demais estados e as municipais, ainda não é publicada de forma consolidada por nenhum órgão, e é o que este repositório vai fechar nas próximas versões.
+Esta base soma **318 praças com cabine** em 19 de novembro de 2026: 162 nas rodovias federais concedidas e 156 nas estaduais de São Paulo, operadas por 49 concessionárias em 12 estados. A contagem nacional completa, com as estaduais dos demais estados e as municipais, ainda não é publicada de forma consolidada por nenhum órgão, e é o que este repositório vai fechar nas próximas versões.
 </details>
 
 <details>
@@ -156,13 +156,13 @@ A **Eixo SP**, com **21 praças**, seguida de Arteris ViaPaulista, com 11.
 <details>
 <summary><strong>A praça de pedágio cobra nos dois sentidos?</strong></summary>
 
-Na maioria, sim: **286 das 319 praças cobram nos dois sentidos**. Nas federais, cobram em um sentido só, segundo o cadastro da ANTT: Guararema Sul (BR-116, Guararema/SP); Guararema Norte (BR-116, Santa Isabel/SP); Arujá Rodoanel (BR-116, Arujá/SP); São Gonçalo (BR-101, São Gonçalo/RJ); NITEROÍ-1 (BR-101, Niterói/RJ); Viúva Graça Norte (BR-116, Seropédica/RJ); Viuvinha Norte (BR-116, Seropédica/RJ). Crescente e decrescente indicam o sentido da quilometragem da rodovia. Nas estaduais de São Paulo são 26, com o sentido pelo ponto cardeal ou, no Rodoanel, pela pista, todas listadas em [Praças de pedágio por rodovia](PRACAS-DE-PEDAGIO-POR-RODOVIA.md).
+Na maioria, sim: **285 das 318 praças cobram nos dois sentidos**. Nas federais, cobram em um sentido só, segundo o cadastro da ANTT: Guararema Sul (BR-116, Guararema/SP); Guararema Norte (BR-116, Santa Isabel/SP); Arujá Rodoanel (BR-116, Arujá/SP); São Gonçalo (BR-101, São Gonçalo/RJ); NITEROÍ-1 (BR-101, Niterói/RJ); Viúva Graça Norte (BR-116, Seropédica/RJ); Viuvinha Norte (BR-116, Seropédica/RJ). Crescente e decrescente indicam o sentido da quilometragem da rodovia. Nas estaduais de São Paulo são 26, com o sentido pelo ponto cardeal ou, no Rodoanel, pela pista, todas listadas em [Praças de pedágio por rodovia](PRACAS-DE-PEDAGIO-POR-RODOVIA.md).
 </details>
 
 <details>
 <summary><strong>As praças de pedágio vão acabar com o Free Flow?</strong></summary>
 
-Não de uma vez. A conversão é feita concessão por concessão, e as concessões novas já nascem com pórtico: 7 concessões desta base cobram só por Free Flow. Em São Paulo, 9 registros de pedágio do cadastro da ARTESP já cobram por pórtico, os mais recentes em Pirangi e Monte Alto, desde 1º de novembro de 2026. As próximas conversões anunciadas são a de Simão Pereira (MG), na BR-040, que a ANTT autorizou em 4 de novembro de 2026, com início anunciado pela Elovias para 16 de novembro, e a de Colina, na SP-326, anunciada para 1º de dezembro. Até a troca acontecer, as praças seguem na lista.
+Não de uma vez. A conversão é feita concessão por concessão, e as concessões novas já nascem com pórtico: 7 concessões desta base cobram só por Free Flow. Em São Paulo, 9 registros de pedágio do cadastro da ARTESP já cobram por pórtico, os mais recentes em Pirangi e Monte Alto, desde 1º de novembro de 2026. Nas federais, a praça de Simão Pereira (MG), na BR-040, deu lugar ao pórtico do km 831 da Elovias em 16 de novembro de 2026 e saiu da lista. A próxima conversão anunciada é a de Colina, na SP-326, para 1º de dezembro. Até a troca acontecer, a praça segue na lista.
 </details>
 
 <details>
@@ -197,15 +197,15 @@ Todo o conteúdo deste repositório nasce de bases públicas em **CSV**, sob lic
 
 | Base | O que traz | Linhas |
 |---|---|:---:|
-| [`pracas-de-pedagio`](dados/pracas-de-pedagio.csv) | Inventário praça a praça, com rodovia, km, município, sentido cobrado, concessão, coordenadas e link da tabela oficial de tarifas | 319 |
+| [`pracas-de-pedagio`](dados/pracas-de-pedagio.csv) | Inventário praça a praça, com rodovia, km, município, sentido cobrado, concessão, coordenadas e link da tabela oficial de tarifas | 318 |
 | [`concessoes-rodoviarias`](dados/concessoes-rodoviarias.csv) | Quem administra cada rodovia: concessão, esfera, órgão regulador, rodovias, estados, número de praças e situação do Free Flow | 49 |
-| [`rodovias-pedagiadas`](dados/rodovias-pedagiadas.csv) | Uma linha por rodovia, concessão e estado, com o nome popular do trecho e os municípios com praça | 112 |
+| [`rodovias-pedagiadas`](dados/rodovias-pedagiadas.csv) | Uma linha por rodovia, concessão e estado, com o nome popular do trecho e os municípios com praça | 111 |
 
 O dicionário de dados, com o significado de cada coluna e os valores aceitos, está em **[`dados/README.md`](dados/README.md)**.
 
 **Como citar:**
 
-> Sem Parar. *Praças de pedágio do Brasil: base aberta das praças com cabine nas rodovias concedidas.* Versão 0.2.0. Consultado em [data]. Disponível em: https://github.com/Sem-Parar/SEM-PARAR-PEDAGIOS
+> Sem Parar. *Praças de pedágio do Brasil: base aberta das praças com cabine nas rodovias concedidas.* Versão 0.2.1. Consultado em [data]. Disponível em: https://github.com/Sem-Parar/SEM-PARAR-PEDAGIOS
 
 ---
 
@@ -266,7 +266,7 @@ Se preferir, a contratação também pode ser feita pelo SuperApp Sem Parar.
 
 <br>
 
-<sub>Repositório oficial mantido pelo <strong>Sem Parar</strong>. Conteúdo e dados sob <a href="LICENSE">CC BY 4.0</a>. Última revisão dos dados em 9 de novembro de 2026.</sub>
+<sub>Repositório oficial mantido pelo <strong>Sem Parar</strong>. Conteúdo e dados sob <a href="LICENSE">CC BY 4.0</a>. Última revisão dos dados em 19 de novembro de 2026.</sub>
 
 <sub><strong>Você com mais tempo para o que importa.</strong> #TudoProSeuCarro</sub>
 
