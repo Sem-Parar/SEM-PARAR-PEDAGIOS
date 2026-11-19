@@ -2,7 +2,7 @@
 
 **49 concessões cobram pedágio em praça com cabine nesta base: 29 federais e 20 estaduais de São Paulo. Outras 7 cobram só por pórtico de Free Flow.** As tabelas mostram quem administra cada rodovia, em que estados, quantas praças opera, se já cobra também por pórtico e onde está a tabela oficial de tarifas.
 
-> Publicado em 9 de novembro de 2026. Gerado a partir de [`dados/concessoes-rodoviarias.csv`](dados/concessoes-rodoviarias.csv), com a Lista de Concessões da ANTT e a relação de concessionárias da ARTESP conferidas nesta data.
+> Publicado em 19 de novembro de 2026. Gerado a partir de [`dados/concessoes-rodoviarias.csv`](dados/concessoes-rodoviarias.csv), com a Lista de Concessões da ANTT e a relação de concessionárias da ARTESP conferidas nesta data.
 > Parte do repositório [Praças de pedágio do Brasil, pelo Sem Parar](README.md). Esta versão cobre as concessões federais e as estaduais de São Paulo; as estaduais dos demais estados e as municipais entram nas próximas.
 > O telefone de socorro de cada concessão está em [Telefones de socorro e guincho nas rodovias](https://github.com/Sem-Parar/SEM-PARAR-GUINCHO/blob/main/TELEFONES-DE-SOCORRO-NAS-RODOVIAS.md), no repositório irmão do Sem Parar.
 
@@ -36,7 +36,7 @@
 | **Ecovias Minas Goiás** | BR-050 | MG, GO | 5 | não | [tabela oficial](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/eco050/tarifas-de-pedagio) |
 | **Ecovias Ponte** | BR-101 | RJ | 1 | não | [tabela oficial](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/ecoponte/tarifas-de-pedagio) |
 | **Ecovias Rio Minas** | BR-116, BR-493 | RJ, MG | 10 | previsto | [tabela oficial](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/ecoriominas/revisoes-e-reajustes/tarifas-de-pedagios) |
-| **Elovias** | BR-040 | RJ, MG | 3 | anunciado para 16/11/2026 | [tabela oficial](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/elovias/tarifas-de-pedagio) |
+| **Elovias** | BR-040 | RJ | 2 | sim, também cobra por pórtico | [tabela oficial](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/elovias/tarifas-de-pedagio) |
 | **EPR Iguaçu** | BR-277 | PR | 6 | sim, também cobra por pórtico | [tabela oficial](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/epr-iguacu/tarifas-de-pedagio) |
 | **EPR Litoral Pioneiro** | BR-277, BR-369, PR-092, PR-151 | PR | 8 | previsto | [tabela oficial](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/epr-litoral-pioneiro/tarifas-de-pedagio) |
 | **EPR Via Mineira** | BR-040 | MG | 3 | não | [tabela oficial](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/epr-via-mineira/tarifas-de-pedagios-via-mineira) |
@@ -54,7 +54,7 @@
 | **ViaSul** | BR-101, BR-290, BR-386 | RS | 7 | previsto | [tabela oficial](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/viasul/tarifas-de-pedagio) |
 | **Way-153** | BR-153, BR-262 | MG, GO | 5 | não | [tabela oficial](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/rota-sertaneja/tarifas-de-pedagio) |
 | **Way-262** | BR-262 | MG | 4 | sim, também cobra por pórtico | [tabela oficial](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/way-262/tarifas-de-pedagio) |
-| **Total federal** | | | **163** | | |
+| **Total federal** | | | **162** | | |
 
 ---
 
@@ -104,7 +104,7 @@ O cadastro de praças da ANTT ainda marca como ativas as praças de três contra
 
 | Concessão no cadastro | Situação na Lista de Concessões da ANTT | O que acontece hoje |
 |---|---|---|
-| Concer, BR-040 (RJ e MG) | Contrato encerrado | A **Elovias** cobra nas mesmas três praças desde 24 de outubro de 2025, e elas estão na tabela acima sob a Elovias |
+| Concer, BR-040 (RJ e MG) | Contrato encerrado | A **Elovias** assumiu as mesmas três praças em 24 de outubro de 2025. As duas do Rio de Janeiro estão na tabela acima sob a Elovias; a de Simão Pereira (MG) virou pórtico de Free Flow em 16 de novembro de 2026 |
 | Ecovias Sul, ex-Ecosul, BR-116 e BR-392 (RS) | Contrato encerrado | As cinco praças do polo de Pelotas deixaram de cobrar com o fim do contrato |
 | Rodovia do Aço, BR-393 (RJ) | Caducidade declarada | A cobrança nas três praças foi suspensa em junho de 2025, quando o DNIT assumiu a rodovia |
 
@@ -121,7 +121,7 @@ No cadastro de ativos da ARTESP acontece o mesmo com dois contratos paulistas:
 
 - **BR-153 em Goiás:** as praças de Itumbiara e de Professor Jamil, antes da Concebra, passaram à **Way-153**. A Concebra segue com as duas praças da BR-060, entre Alexânia e Goianápolis.
 - **Viúva Graça, em Seropédica (RJ):** o cadastro registra as duas estruturas tanto sob a **RioSP** quanto sob a **Ecovias Rio Minas**, com as mesmas coordenadas. Contamos cada uma uma vez, sob a RioSP, que segue operando a praça por autorização da ANTT até nova licitação.
-- **Simão Pereira (MG), na BR-040:** a ANTT autorizou em 4 de novembro de 2026 a Elovias a trocar a praça por um pórtico de Free Flow no km 831, e a concessionária anunciou o início para 16 de novembro. A praça segue na lista até a troca acontecer.
+- **Simão Pereira (MG), na BR-040:** desde 16 de novembro de 2026, a Elovias cobra no pórtico de Free Flow do km 831, autorizado pela ANTT em 4 de novembro, no lugar da praça do km 819,379. A praça saiu da lista, e o pórtico está no [repositório irmão](https://github.com/Sem-Parar/SEM-PARAR-FREE-FLOW/blob/main/RODOVIAS-COM-FREE-FLOW.md).
 - **Renovias e Rota Mogiana, em São Paulo:** em 1º de novembro de 2026, a **Rota Mogiana** assumiu os 346 km operados pela Renovias, com as nove praças da SP-340, SP-342, SP-344 e SP-350, que entram nesta base sob o nome novo. A cobrança eletrônica do Siga Fácil vai ser implantada de forma gradual.
 - **Colina (SP), na SP-326:** a Ecovias Noroeste Paulista anunciou o pórtico de Free Flow para 1º de dezembro de 2026, no lugar da praça. A praça segue na lista até a troca acontecer.
 - **Praças paulistas que já viraram pórtico** e por isso saíram da contagem: Caraguatatuba (Tamoios): contorno sul da tamoios, cobrado por pórtico; Pirangi (Ecovias Noroeste Paulista): pórtico desde 01/11/2026; Monte Alto (Ecovias Noroeste Paulista): pórtico desde 01/11/2026; Dobrada (Ecovias Noroeste Paulista): pórtico em operação; Taiúva (Ecovias Noroeste Paulista): pórtico desde 01/12/2025; São Roque (Motiva Sorocabana): pórtico desde 01/10/2025; Alumínio (Motiva Sorocabana): pórtico desde 01/10/2025; Araçoiaba Oeste (Motiva Sorocabana): pórtico desde 01/10/2025; Araçoiaba Leste (Motiva Sorocabana): pórtico desde 01/10/2025.
@@ -157,7 +157,7 @@ A **Ecovias Ponte**, concessão federal regulada pela ANTT. A Ponte Rio-Niterói
 <details>
 <summary><strong>Quem administra a Rio-Juiz de Fora?</strong></summary>
 
-A **Elovias**, concessão federal regulada pela ANTT. A Rio-Juiz de Fora (BR-040) tem 3 praças com cabine nesta base. A tabela oficial de tarifas está [na página da concessão na ANTT](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/elovias/tarifas-de-pedagio).
+A **Elovias**, concessão federal regulada pela ANTT. A Rio-Juiz de Fora (BR-040) tem 2 praças com cabine nesta base. A tabela oficial de tarifas está [na página da concessão na ANTT](https://www.gov.br/antt/pt-br/assuntos/rodovias/concessionarias/lista-de-concessoes/elovias/tarifas-de-pedagio).
 </details>
 
 <details>
@@ -236,7 +236,7 @@ Se preferir, a contratação também pode ser feita pelo SuperApp Sem Parar.
 
 <br>
 
-<sub>Repositório oficial mantido pelo <strong>Sem Parar</strong>. Conteúdo e dados sob <a href="LICENSE">CC BY 4.0</a>. Última revisão dos dados em 9 de novembro de 2026.</sub>
+<sub>Repositório oficial mantido pelo <strong>Sem Parar</strong>. Conteúdo e dados sob <a href="LICENSE">CC BY 4.0</a>. Última revisão dos dados em 19 de novembro de 2026.</sub>
 
 <sub><strong>Você com mais tempo para o que importa.</strong> #TudoProSeuCarro</sub>
 
